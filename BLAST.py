@@ -20,3 +20,4 @@ def BLAST(query):
     wait = WebDriverWait(driver, 30)
     download = wait.until(expected_conditions.visibility_of_element_located((By.ID, 'btnDwnld')))
     download.click()
+    driver.find_element_by_id('dwText').click()

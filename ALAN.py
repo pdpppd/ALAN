@@ -9,6 +9,7 @@ from selenium.webdriver.chrome.options import Options
 from selenium.webdriver.support.wait import WebDriverWait
 from selenium.webdriver.support import expected_conditions
 from selenium.webdriver.common.by import By
+from selenium.webdriver.common.keys import Keys
 from dotenv import load_dotenv
 load_dotenv()
 
@@ -51,9 +52,11 @@ def checker(prompt, condition):
 
 
 
+
 conversation = []
 conversation.append({'role': 'system', 'content': 'Act as a Bioinformatics research assistant named ALAN (Amino acid Linkage and Analysis Navigator). Only introduce yourself and say that you will help with protein structure prediction and other bioinformatics problems.'})
 conversation.append({'role': 'system', 'content': 'You have the ability to run BLAST searches. If the user ask for blast search, converse with them normally but make sure to ask for the sequence they want to search'})
+conversation.append({'role': 'system', 'content': 'You have the ability to do protein structure prediction. If the user asks for protein structure prediction, converse with them normally but make sure to ask for the amino acid sequence they want a prediction of. Also ignore the length of amino acid sequences provided'})
 conversation.append({'role':'system', 'content': 'If you are asked to open up tools or webpages, you should always make a selenium script in python to do so. You will use chrome by default for all selenium scripts. You must make sure the experimental option \'detach\' is True so that the browser stays open'})
 conversation = ChatGPT_conversation(conversation)
 print('{0}: {1}\n'.format(conversation[-1]['role'].strip(), conversation[-1]['content'].strip()))
@@ -61,10 +64,16 @@ print('{0}: {1}\n'.format(conversation[-1]['role'].strip(), conversation[-1]['co
 
 
 
-def BLAST_CHECK(text):
-
+def check(text):
     # newconvo.append({'role': 'system', 'content': 'Check if this prompt is asking for BLAST Search AND has a nucleotide sequence, you will answer only \'Yes\' or \'No\'. The Prompt: {}'.format(prompt)})
-    response = checker(text, 'Check if this prompt is asking for a BLAST search AND has a nucleotide sequence. Reply \'Yes\' if both of these conditions are met')
+    response = checker(text, 'Check what the prompt is asking for, if it is asking for Protein structure prediction, write \'PROTEIN\', and if it asking for BLAST search, write \'BLAST\'. If the prompt doesn\'t ask for anything write anything except PROTEIN and BLAST')
+    return response
+    
+
+
+def structurepredictioncheck(text):
+    # newconvo.append({'role': 'system', 'content': 'Check if this prompt is asking for BLAST Search AND has a nucleotide sequence, you will answer only \'Yes\' or \'No\'. The Prompt: {}'.format(prompt)})
+    response = checker(text, 'Check if this prompt is explicitly asking for protein structure prediction AND has a amino acid sequence. Reply \'Yes\' if both of these conditions are met')
     if response == 'Yes' or response == 'Yes.':
         return True
     else:
@@ -108,14 +117,40 @@ def BLAST(query):
     download.click()
     driver.find_element_by_id('dwText').click()
 
+def protein(seq):
+    chrome_options = Options()
+    chrome_options.add_experimental_option('detach', True)
+
+    driver = webdriver.Chrome(options=chrome_options)
+    driver.get('https://esmatlas.com/resources?action=fold')
+    element = driver.find_element_by_id('search-input')
+    element.send_keys(seq)
+    element.send_keys(Keys.ENTER)
 
 
-def extractSEQ(prompt):
+
+def extractNT_SEQ(prompt):
     conversation = []
-    conversation.append({'role': 'system', 'content': f'Look through this text and write back only the nucleotide sequence: {prompt}'})
+    conversation.append({'role': 'system', 'content': f'Look through this text and write back only the nucleotide sequence and nothing else, if there is no nucleotide sequence write \'ASKING\' only. The prompt: {prompt}'})
     conversation = ChatGPT_conversation(conversation)
     response = conversation[-1]['content'].strip()
-    return response
+    if re.search('ASKING', response):
+        e = input(Fore.BLUE + 'Write Nucleotide Sequence: ')
+        return e
+    else:  
+        return response
+
+
+def extractAA__SEQ(prompt):
+    conversation = []
+    conversation.append({'role': 'system', 'content': f'Look through this text and write back only the amino acid sequence and nothing else, if there is no amino acid sequence write \'ASKING\' only. The prompt: {prompt}'})
+    conversation = ChatGPT_conversation(conversation)
+    response = conversation[-1]['content'].strip()
+    if re.search('ASKING', response):
+        e = input(Fore.BLUE + 'Write Amino Acid Sequence: ')
+        return e
+    else:  
+        return response
 
 
 
@@ -123,22 +158,26 @@ def extractSEQ(prompt):
 while True:
     prompt = input(Fore.RED + 'User:')
     with Spinner(Fore.GREEN + "Thinking... "):
-        check = BLAST_CHECK(prompt)
-        if check == True:
-            seq = extractSEQ(prompt)
-            BLAST(seq)
-        else:
-            conversation.append({'role': 'user', 'content': prompt})
+        request = check(prompt)
+    if request == 'BLAST':
+        seq = extractNT_SEQ(prompt)
+        BLAST(seq)
+    elif request == 'PROTEIN': 
+        seq = extractAA__SEQ(prompt)
+        protein(seq)
+    else:
+        conversation.append({'role': 'user', 'content': prompt})
+        with Spinner(Fore.GREEN + "Thinking... "):
             conversation = ChatGPT_conversation(conversation)
 
-            response = '{0}: {1}\n'.format(conversation[-1]['role'].strip(), conversation[-1]['content'].strip())
-            response_state = extract_code(response)
+        response = '{0}: {1}\n'.format(conversation[-1]['role'].strip(), conversation[-1]['content'].strip())
+        response_state = extract_code(response)
 
-            if response_state == False:
-                print(response)
-            else: 
-                filename = 'code0.py'
-                os.system(f'python3 {filename}')
+        if response_state == False:
+            print(response)
+        else: 
+            filename = 'code0.py'
+            os.system(f'python3 {filename}')
 
 # while True: 
 #     prompt = input(Fore.YELLOW + 'User:')
