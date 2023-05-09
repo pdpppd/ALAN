@@ -44,7 +44,7 @@ def checker(prompt, condition):
     frequency_penalty=0,
     presence_penalty=0
     )
-    return response
+    return response['choices'][0]['text'].strip()
 
 
 
@@ -59,13 +59,9 @@ print('{0}: {1}\n'.format(conversation[-1]['role'].strip(), conversation[-1]['co
 
 
 def BLAST_CHECK(text):
-    newconvo = []
-    prompt = text
+
     # newconvo.append({'role': 'system', 'content': 'Check if this prompt is asking for BLAST Search AND has a nucleotide sequence, you will answer only \'Yes\' or \'No\'. The Prompt: {}'.format(prompt)})
-    newconvo.append({'role': 'system', 'content': 'Act as a text checker, you must check if the prompt is asking for BLAST search AND has a nucleotide sequence. If both of these conditions are true, you will reply \'Yes\'. For all other cases, reply normally. Don\'t write anything else. . The Prompt: {}'.format(prompt)})
-    newconvo = ChatGPT_conversation(newconvo)
-    response = newconvo[-1]['content'].strip()
-    print(response)
+    response = checker(text, 'Check if this prompt is asking for a BLAST search AND has a nucleotide sequence. Reply \'Yes\' if both of these conditions are met')
     if response == 'Yes' or response == 'Yes.':
         return True
     else:
@@ -110,7 +106,7 @@ def extractSEQ(prompt):
     conversation = []
     conversation.append({'role': 'system', 'content': f'Look through this text and write back only the nucleotide sequence: {prompt}'})
     conversation = ChatGPT_conversation(conversation)
-    response = '{0}: {1}\n'.format(conversation[-1]['role'].strip(), conversation[-1]['content'].strip())
+    response = conversation[-1]['content'].strip()
     return response
 
 
