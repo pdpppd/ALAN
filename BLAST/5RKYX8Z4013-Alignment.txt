@@ -1,0 +1,1519 @@
+RID: 5RKYX8Z4013	
+Job Title:Nucleotide Sequence 				
+Program: BLASTN 
+Query: None ID: lcl|Query_13301(dna) Length: 43
+Database: nt Nucleotide collection (nt)
+	
+Sequences producing significant alignments:
+                                                                  Scientific      Common                     Max    Total Query   E   Per.   Acc.                        
+Description                                                       Name            Name            Taxid      Score  Score cover Value Ident  Len        Accession        
+Homo sapiens DNA, contains HBB gene, isolation_source: Iraqi...   Homo sapiens    human           9606       80.5   80.5  100%  7e-12 100.00 699        LC507570.1       
+Homo sapiens DNA, contains HBB gene, isolation_source: Iraqi...   Homo sapiens    human           9606       80.5   80.5  100%  7e-12 100.00 699        LC507569.1       
+Homo sapiens DNA, contains HBB gene, isolation_source: Iraqi...   Homo sapiens    human           9606       80.5   80.5  100%  7e-12 100.00 699        LC507567.1       
+Homo sapiens DNA, contains HBB gene, isolation_source: Iraqi...   Homo sapiens    human           9606       80.5   80.5  100%  7e-12 100.00 699        LC507566.1       
+Homo sapiens DNA, contains HBB gene, isolation_source: Iraqi...   Homo sapiens    human           9606       80.5   80.5  100%  7e-12 100.00 699        LC507565.1       
+Homo sapiens DNA, contains HBB gene, isolation_source: Iraqi...   Homo sapiens    human           9606       80.5   80.5  100%  7e-12 100.00 699        LC507564.1       
+Homo sapiens DNA, contains HBB gene, isolation_source: Iraqi...   Homo sapiens    human           9606       80.5   80.5  100%  7e-12 100.00 699        LC507563.1       
+Homo sapiens DNA, contains HBB gene, isolation_source: Iraqi...   Homo sapiens    human           9606       80.5   80.5  100%  7e-12 100.00 699        LC507416.1       
+Homo sapiens DNA, contains HBB gene, isolation_source: Iraqi...   Homo sapiens    human           9606       80.5   80.5  100%  7e-12 100.00 699        LC507415.1       
+Homo sapiens DNA, contains HBB gene, isolation_source: Iraqi...   Homo sapiens    human           9606       80.5   80.5  100%  7e-12 100.00 699        LC507412.1       
+Homo sapiens DNA, contains HBB gene, isolation_source: Iraqi...   Homo sapiens    human           9606       80.5   80.5  100%  7e-12 100.00 699        LC507411.1       
+Homo sapiens DNA, contains HBB gene, isolation_source: Iraqi...   Homo sapiens    human           9606       80.5   80.5  100%  7e-12 100.00 699        LC507410.1       
+Homo sapiens DNA, contains HBB gene, isolation_source: Iraqi...   Homo sapiens    human           9606       80.5   80.5  100%  7e-12 100.00 699        LC507408.1       
+Homo sapiens voucher Yoruba_19_1 hemoglobin subunit beta (HBB)... Homo sapiens    human           9606       80.5   80.5  100%  7e-12 100.00 1824       MK476504.1       
+Homo sapiens voucher Yoruba_19_0 hemoglobin subunit beta (HBB)... Homo sapiens    human           9606       80.5   80.5  100%  7e-12 100.00 1824       MK476503.1       
+Homo sapiens voucher Yoruba_18_1 hemoglobin subunit beta (HBB)... Homo sapiens    human           9606       80.5   80.5  100%  7e-12 100.00 1824       MK476502.1       
+Homo sapiens voucher Yoruba_18_0 hemoglobin subunit beta (HBB)... Homo sapiens    human           9606       80.5   80.5  100%  7e-12 100.00 1824       MK476501.1       
+Homo sapiens voucher Yoruba_17_1 hemoglobin subunit beta (HBB)... Homo sapiens    human           9606       80.5   80.5  100%  7e-12 100.00 1824       MK476500.1       
+Homo sapiens voucher Yoruba_17_0 hemoglobin subunit beta (HBB)... Homo sapiens    human           9606       80.5   80.5  100%  7e-12 100.00 1824       MK476499.1       
+Homo sapiens voucher Yoruba_16_0 hemoglobin subunit beta (HBB)... Homo sapiens    human           9606       80.5   80.5  100%  7e-12 100.00 1824       MK476497.1       
+Homo sapiens voucher Yoruba_15_1 hemoglobin subunit beta (HBB)... Homo sapiens    human           9606       80.5   80.5  100%  7e-12 100.00 1824       MK476496.1       
+Homo sapiens voucher Yoruba_15_0 hemoglobin subunit beta (HBB)... Homo sapiens    human           9606       80.5   80.5  100%  7e-12 100.00 1824       MK476495.1       
+Homo sapiens voucher Yoruba_14_1 hemoglobin subunit beta (HBB)... Homo sapiens    human           9606       80.5   80.5  100%  7e-12 100.00 1824       MK476494.1       
+Homo sapiens voucher Yoruba_13_1 hemoglobin subunit beta (HBB)... Homo sapiens    human           9606       80.5   80.5  100%  7e-12 100.00 1824       MK476492.1       
+Homo sapiens voucher Yoruba_12_1 hemoglobin subunit beta (HBB)... Homo sapiens    human           9606       80.5   80.5  100%  7e-12 100.00 1824       MK476490.1       
+Homo sapiens voucher Yoruba_11_1 hemoglobin subunit beta (HBB)... Homo sapiens    human           9606       80.5   80.5  100%  7e-12 100.00 1824       MK476488.1       
+Homo sapiens voucher Yoruba_11_0 hemoglobin subunit beta (HBB)... Homo sapiens    human           9606       80.5   80.5  100%  7e-12 100.00 1824       MK476487.1       
+Homo sapiens voucher Yoruba_8_1 hemoglobin subunit beta (HBB)...  Homo sapiens    human           9606       80.5   80.5  100%  7e-12 100.00 1824       MK476482.1       
+Homo sapiens voucher Yoruba_7_1 hemoglobin subunit beta (HBB)...  Homo sapiens    human           9606       80.5   80.5  100%  7e-12 100.00 1824       MK476480.1       
+Homo sapiens voucher Yoruba_7_0 hemoglobin subunit beta (HBB)...  Homo sapiens    human           9606       80.5   80.5  100%  7e-12 100.00 1824       MK476479.1       
+Homo sapiens voucher Yoruba_6_1 hemoglobin subunit beta (HBB)...  Homo sapiens    human           9606       80.5   80.5  100%  7e-12 100.00 1824       MK476478.1       
+Homo sapiens voucher Yoruba_6_0 hemoglobin subunit beta (HBB)...  Homo sapiens    human           9606       80.5   80.5  100%  7e-12 100.00 1824       MK476477.1       
+Homo sapiens voucher Yoruba_5_1 hemoglobin subunit beta (HBB)...  Homo sapiens    human           9606       80.5   80.5  100%  7e-12 100.00 1824       MK476476.1       
+Homo sapiens voucher Yoruba_5_0 hemoglobin subunit beta (HBB)...  Homo sapiens    human           9606       80.5   80.5  100%  7e-12 100.00 1824       MK476475.1       
+Homo sapiens voucher Yoruba_4_0 hemoglobin subunit beta (HBB)...  Homo sapiens    human           9606       80.5   80.5  100%  7e-12 100.00 1824       MK476473.1       
+Homo sapiens voucher Yoruba_2_0 hemoglobin subunit beta (HBB)...  Homo sapiens    human           9606       80.5   80.5  100%  7e-12 100.00 1824       MK476469.1       
+Homo sapiens voucher Yoruba_1_1 hemoglobin subunit beta (HBB)...  Homo sapiens    human           9606       80.5   80.5  100%  7e-12 100.00 1824       MK476468.1       
+Homo sapiens voucher Yoruba_1_0 hemoglobin subunit beta (HBB)...  Homo sapiens    human           9606       80.5   80.5  100%  7e-12 100.00 1824       MK476467.1       
+Homo sapiens voucher Mandenka_20_0 hemoglobin subunit beta (HB... Homo sapiens    human           9606       80.5   80.5  100%  7e-12 100.00 1824       MK476465.1       
+Homo sapiens voucher Mandenka_19_0 hemoglobin subunit beta (HB... Homo sapiens    human           9606       80.5   80.5  100%  7e-12 100.00 1824       MK476463.1       
+Homo sapiens voucher Mandenka_18_1 hemoglobin subunit beta (HB... Homo sapiens    human           9606       80.5   80.5  100%  7e-12 100.00 1824       MK476462.1       
+Homo sapiens voucher Mandenka_18_0 hemoglobin subunit beta (HB... Homo sapiens    human           9606       80.5   80.5  100%  7e-12 100.00 1824       MK476461.1       
+Homo sapiens voucher Mandenka_17_1 hemoglobin subunit beta (HB... Homo sapiens    human           9606       80.5   80.5  100%  7e-12 100.00 1824       MK476460.1       
+Homo sapiens voucher Mandenka_16_1 hemoglobin subunit beta (HB... Homo sapiens    human           9606       80.5   80.5  100%  7e-12 100.00 1824       MK476458.1       
+Homo sapiens voucher Mandenka_16_0 hemoglobin subunit beta (HB... Homo sapiens    human           9606       80.5   80.5  100%  7e-12 100.00 1824       MK476457.1       
+Homo sapiens voucher Mandenka_15_1 hemoglobin subunit beta (HB... Homo sapiens    human           9606       80.5   80.5  100%  7e-12 100.00 1824       MK476456.1       
+Homo sapiens voucher Mandenka_15_0 hemoglobin subunit beta (HB... Homo sapiens    human           9606       80.5   80.5  100%  7e-12 100.00 1824       MK476455.1       
+Homo sapiens voucher Mandenka_14_1 hemoglobin subunit beta (HB... Homo sapiens    human           9606       80.5   80.5  100%  7e-12 100.00 1824       MK476454.1       
+Homo sapiens voucher Mandenka_14_0 hemoglobin subunit beta (HB... Homo sapiens    human           9606       80.5   80.5  100%  7e-12 100.00 1824       MK476453.1       
+Homo sapiens voucher Mandenka_13_1 hemoglobin subunit beta (HB... Homo sapiens    human           9606       80.5   80.5  100%  7e-12 100.00 1824       MK476452.1       
+Homo sapiens voucher Mandenka_13_0 hemoglobin subunit beta (HB... Homo sapiens    human           9606       80.5   80.5  100%  7e-12 100.00 1824       MK476451.1       
+Homo sapiens voucher Mandenka_12_0 hemoglobin subunit beta (HB... Homo sapiens    human           9606       80.5   80.5  100%  7e-12 100.00 1824       MK476449.1       
+Homo sapiens voucher Mandenka_10_0 hemoglobin subunit beta (HB... Homo sapiens    human           9606       80.5   80.5  100%  7e-12 100.00 1824       MK476445.1       
+Homo sapiens voucher Mandenka_9_1 hemoglobin subunit beta (HBB... Homo sapiens    human           9606       80.5   80.5  100%  7e-12 100.00 1824       MK476444.1       
+PREDICTED: Pan troglodytes hemoglobin subunit beta (HBB), mRNA    Pan troglodytes chimpanzee      9598       80.5   80.5  100%  7e-12 100.00 639        XM_508242.5      
+Homo sapiens isolate 30 hemoglobin beta chain (HBB) gene,...      Homo sapiens    human           9606       80.5   80.5  100%  7e-12 100.00 599        ON584459.1       
+Homo sapiens isolate 27 hemoglobin beta chain (HBB) gene,...      Homo sapiens    human           9606       80.5   80.5  100%  7e-12 100.00 599        ON584456.1       
+Homo sapiens isolate 24 hemoglobin beta chain (HBB) gene,...      Homo sapiens    human           9606       80.5   80.5  100%  7e-12 100.00 599        ON584453.1       
+Homo sapiens isolate 7 hemoglobin beta chain (HBB) gene, parti... Homo sapiens    human           9606       80.5   80.5  100%  7e-12 100.00 599        ON584436.1       
+Homo sapiens isolate 4 hemoglobin beta chain (HBB) gene, parti... Homo sapiens    human           9606       80.5   80.5  100%  7e-12 100.00 599        ON584433.1       
+Homo sapiens isolate 3 hemoglobin beta chain (HBB) gene, parti... Homo sapiens    human           9606       80.5   80.5  100%  7e-12 100.00 599        ON584432.1       
+Homo sapiens B8_389GA HBB gene for hemoglobin subunit beta,...    Homo sapiens    human           9606       80.5   80.5  100%  7e-12 100.00 657        LC727515.1       
+Homo sapiens B6_294CC HBB gene for hemoglobin subunit beta,...    Homo sapiens    human           9606       80.5   80.5  100%  7e-12 100.00 657        LC727513.1       
+Homo sapiens B7_294TC HBB gene for hemoglobin subunit beta,...    Homo sapiens    human           9606       80.5   80.5  100%  7e-12 100.00 657        LC727512.1       
+Homo sapiens B5_294TT HBB gene for hemoglobin subunit beta,...    Homo sapiens    human           9606       80.5   80.5  100%  7e-12 100.00 657        LC727511.1       
+Homo sapiens B1_205CC HBB gene for hemoglobin subunit beta,...    Homo sapiens    human           9606       80.5   80.5  100%  7e-12 100.00 657        LC727508.1       
+Homo sapiens isolate B2 beta globin (HBB) gene, partial cds       Homo sapiens    human           9606       80.5   80.5  100%  7e-12 100.00 565        MW038840.1       
+Homo sapiens Iraqi individua, F 7 HBB gene for hemoglobin...      Homo sapiens    human           9606       80.5   80.5  100%  7e-12 100.00 699        LC632701.1       
+Homo sapiens Iraqi individua, F 6 HBB gene for hemoglobin...      Homo sapiens    human           9606       80.5   80.5  100%  7e-12 100.00 699        LC632700.1       
+Homo sapiens Iraqi individua, F 5 HBB gene for hemoglobin...      Homo sapiens    human           9606       80.5   80.5  100%  7e-12 100.00 699        LC632699.1       
+Homo sapiens Iraqi individua, F 4 HBB gene for hemoglobin...      Homo sapiens    human           9606       80.5   80.5  100%  7e-12 100.00 699        LC632698.1       
+Homo sapiens Iraqi individua, F 3 HBB gene for hemoglobin...      Homo sapiens    human           9606       80.5   80.5  100%  7e-12 100.00 699        LC632697.1       
+Homo sapiens Iraqi individua, F 2 HBB gene for hemoglobin...      Homo sapiens    human           9606       80.5   80.5  100%  7e-12 100.00 699        LC632696.1       
+Homo sapiens Iraqi individua, F 1 HBB gene for hemoglobin...      Homo sapiens    human           9606       80.5   80.5  100%  7e-12 100.00 699        LC632695.1       
+Homo sapiens Iraqi individual, E 6 HBB gene for hemoglobin...     Homo sapiens    human           9606       80.5   80.5  100%  7e-12 100.00 699        LC632688.1       
+Homo sapiens Iraqi individual, E 5 HBB gene for hemoglobin...     Homo sapiens    human           9606       80.5   80.5  100%  7e-12 100.00 699        LC632687.1       
+Homo sapiens Iraqi individual, E3 HBB gene for hemoglobin...      Homo sapiens    human           9606       80.5   80.5  100%  7e-12 100.00 699        LC632685.1       
+Homo sapiens Iraqi individual, E 2 HBB gene for hemoglobin...     Homo sapiens    human           9606       80.5   80.5  100%  7e-12 100.00 699        LC632684.1       
+Homo sapiens Iraqi individual, E 1 HBB gene for hemoglobin...     Homo sapiens    human           9606       80.5   80.5  100%  7e-12 100.00 699        LC632683.1       
+Homo sapiens isolate 33 hemoglobin beta chain (HBB) gene,...      Homo sapiens    human           9606       76.8   76.8  100%  9e-11 97.67  599        ON584462.1       
+Homo sapiens isolate 32 hemoglobin beta chain (HBB) gene,...      Homo sapiens    human           9606       76.8   76.8  100%  9e-11 97.67  599        ON584461.1       
+Homo sapiens isolate 29 nonfunctional hemoglobin beta chain...    Homo sapiens    human           9606       76.8   76.8  100%  9e-11 97.67  598        ON584458.1       
+Homo sapiens isolate 28 hemoglobin beta chain (HBB) gene,...      Homo sapiens    human           9606       76.8   76.8  100%  9e-11 97.67  599        ON584457.1       
+Homo sapiens isolate 26 nonfunctional hemoglobin beta chain...    Homo sapiens    human           9606       76.8   76.8  100%  9e-11 97.67  598        ON584455.1       
+Homo sapiens isolate 25 hemoglobin beta chain (HBB) gene,...      Homo sapiens    human           9606       76.8   76.8  100%  9e-11 97.67  599        ON584454.1       
+Homo sapiens isolate 23 hemoglobin beta chain (HBB) gene,...      Homo sapiens    human           9606       76.8   76.8  100%  9e-11 97.67  599        ON584452.1       
+Homo sapiens isolate 22 hemoglobin beta chain (HBB) gene,...      Homo sapiens    human           9606       76.8   76.8  100%  9e-11 97.67  599        ON584451.1       
+Homo sapiens isolate 21 hemoglobin beta chain (HBB) gene,...      Homo sapiens    human           9606       76.8   76.8  100%  9e-11 97.67  599        ON584450.1       
+Homo sapiens isolate 20 hemoglobin beta chain (HBB) gene,...      Homo sapiens    human           9606       76.8   76.8  100%  9e-11 97.67  599        ON584449.1       
+Homo sapiens isolate 18 hemoglobin beta chain (HBB) gene,...      Homo sapiens    human           9606       76.8   76.8  100%  9e-11 97.67  599        ON584447.1       
+Homo sapiens isolate 17 hemoglobin beta chain (HBB) gene,...      Homo sapiens    human           9606       76.8   76.8  100%  9e-11 97.67  599        ON584446.1       
+Homo sapiens isolate 16 hemoglobin beta chain (HBB) gene,...      Homo sapiens    human           9606       76.8   76.8  100%  9e-11 97.67  599        ON584445.1       
+Homo sapiens isolate 15 hemoglobin beta chain (HBB) gene,...      Homo sapiens    human           9606       76.8   76.8  100%  9e-11 97.67  599        ON584444.1       
+Homo sapiens isolate 14 hemoglobin beta chain (HBB) gene,...      Homo sapiens    human           9606       76.8   76.8  100%  9e-11 97.67  599        ON584443.1       
+Homo sapiens isolate 12 hemoglobin beta chain (HBB) gene,...      Homo sapiens    human           9606       76.8   76.8  100%  9e-11 97.67  599        ON584441.1       
+Homo sapiens isolate 9 hemoglobin beta chain (HBB) gene, parti... Homo sapiens    human           9606       76.8   76.8  100%  9e-11 97.67  599        ON584438.1       
+Homo sapiens isolate 6 nonfunctional hemoglobin beta chain...     Homo sapiens    human           9606       76.8   76.8  100%  9e-11 97.67  598        ON584435.1       
+Homo sapiens isolate 5 nonfunctional hemoglobin beta chain...     Homo sapiens    human           9606       76.8   76.8  100%  9e-11 97.67  598        ON584434.1       
+Homo sapiens isolate 2 nonfunctional hemoglobin beta chain...     Homo sapiens    human           9606       76.8   76.8  100%  9e-11 97.67  598        ON584431.1       
+Homo sapiens isolate 1 hemoglobin beta chain (HBB) gene, parti... Homo sapiens    human           9606       76.8   76.8  100%  9e-11 97.67  599        ON584430.1       
+
+Alignments:
+
+>Homo sapiens DNA, contains HBB gene, isolation_source: Iraqi individual No.20
+Sequence ID: LC507570.1 Length: 699
+Range 1: 174 to 216
+
+Score:80.5 bits(43), Expect:7e-12, 
+Identities:43/43(100%),  Gaps:0/43(0%), Strand: Plus/Plus
+
+Query  1    CACCTGACTCCTGAGGAGAAGTCTGCCGTTACTGCCCTGTGGG  43
+            |||||||||||||||||||||||||||||||||||||||||||
+Sbjct  174  CACCTGACTCCTGAGGAGAAGTCTGCCGTTACTGCCCTGTGGG  216
+
+
+
+
+>Homo sapiens DNA, contains HBB gene, isolation_source: Iraqi individual No.19
+Sequence ID: LC507569.1 Length: 699
+Range 1: 168 to 210
+
+Score:80.5 bits(43), Expect:7e-12, 
+Identities:43/43(100%),  Gaps:0/43(0%), Strand: Plus/Plus
+
+Query  1    CACCTGACTCCTGAGGAGAAGTCTGCCGTTACTGCCCTGTGGG  43
+            |||||||||||||||||||||||||||||||||||||||||||
+Sbjct  168  CACCTGACTCCTGAGGAGAAGTCTGCCGTTACTGCCCTGTGGG  210
+
+
+
+
+>Homo sapiens DNA, contains HBB gene, isolation_source: Iraqi individual No.17
+Sequence ID: LC507567.1 Length: 699
+Range 1: 170 to 212
+
+Score:80.5 bits(43), Expect:7e-12, 
+Identities:43/43(100%),  Gaps:0/43(0%), Strand: Plus/Plus
+
+Query  1    CACCTGACTCCTGAGGAGAAGTCTGCCGTTACTGCCCTGTGGG  43
+            |||||||||||||||||||||||||||||||||||||||||||
+Sbjct  170  CACCTGACTCCTGAGGAGAAGTCTGCCGTTACTGCCCTGTGGG  212
+
+
+
+
+>Homo sapiens DNA, contains HBB gene, isolation_source: Iraqi individual No.16
+Sequence ID: LC507566.1 Length: 699
+Range 1: 175 to 217
+
+Score:80.5 bits(43), Expect:7e-12, 
+Identities:43/43(100%),  Gaps:0/43(0%), Strand: Plus/Plus
+
+Query  1    CACCTGACTCCTGAGGAGAAGTCTGCCGTTACTGCCCTGTGGG  43
+            |||||||||||||||||||||||||||||||||||||||||||
+Sbjct  175  CACCTGACTCCTGAGGAGAAGTCTGCCGTTACTGCCCTGTGGG  217
+
+
+
+
+>Homo sapiens DNA, contains HBB gene, isolation_source: Iraqi individual No.15
+Sequence ID: LC507565.1 Length: 699
+Range 1: 164 to 206
+
+Score:80.5 bits(43), Expect:7e-12, 
+Identities:43/43(100%),  Gaps:0/43(0%), Strand: Plus/Plus
+
+Query  1    CACCTGACTCCTGAGGAGAAGTCTGCCGTTACTGCCCTGTGGG  43
+            |||||||||||||||||||||||||||||||||||||||||||
+Sbjct  164  CACCTGACTCCTGAGGAGAAGTCTGCCGTTACTGCCCTGTGGG  206
+
+
+
+
+>Homo sapiens DNA, contains HBB gene, isolation_source: Iraqi individual No.14
+Sequence ID: LC507564.1 Length: 699
+Range 1: 167 to 209
+
+Score:80.5 bits(43), Expect:7e-12, 
+Identities:43/43(100%),  Gaps:0/43(0%), Strand: Plus/Plus
+
+Query  1    CACCTGACTCCTGAGGAGAAGTCTGCCGTTACTGCCCTGTGGG  43
+            |||||||||||||||||||||||||||||||||||||||||||
+Sbjct  167  CACCTGACTCCTGAGGAGAAGTCTGCCGTTACTGCCCTGTGGG  209
+
+
+
+
+>Homo sapiens DNA, contains HBB gene, isolation_source: Iraqi individual No.13
+Sequence ID: LC507563.1 Length: 699
+Range 1: 169 to 211
+
+Score:80.5 bits(43), Expect:7e-12, 
+Identities:43/43(100%),  Gaps:0/43(0%), Strand: Plus/Plus
+
+Query  1    CACCTGACTCCTGAGGAGAAGTCTGCCGTTACTGCCCTGTGGG  43
+            |||||||||||||||||||||||||||||||||||||||||||
+Sbjct  169  CACCTGACTCCTGAGGAGAAGTCTGCCGTTACTGCCCTGTGGG  211
+
+
+
+
+>Homo sapiens DNA, contains HBB gene, isolation_source: Iraqi individual No.11
+Sequence ID: LC507416.1 Length: 699
+Range 1: 170 to 212
+
+Score:80.5 bits(43), Expect:7e-12, 
+Identities:43/43(100%),  Gaps:0/43(0%), Strand: Plus/Plus
+
+Query  1    CACCTGACTCCTGAGGAGAAGTCTGCCGTTACTGCCCTGTGGG  43
+            |||||||||||||||||||||||||||||||||||||||||||
+Sbjct  170  CACCTGACTCCTGAGGAGAAGTCTGCCGTTACTGCCCTGTGGG  212
+
+
+
+
+>Homo sapiens DNA, contains HBB gene, isolation_source: Iraqi individual No.10
+Sequence ID: LC507415.1 Length: 699
+Range 1: 174 to 216
+
+Score:80.5 bits(43), Expect:7e-12, 
+Identities:43/43(100%),  Gaps:0/43(0%), Strand: Plus/Plus
+
+Query  1    CACCTGACTCCTGAGGAGAAGTCTGCCGTTACTGCCCTGTGGG  43
+            |||||||||||||||||||||||||||||||||||||||||||
+Sbjct  174  CACCTGACTCCTGAGGAGAAGTCTGCCGTTACTGCCCTGTGGG  216
+
+
+
+
+>Homo sapiens DNA, contains HBB gene, isolation_source: Iraqi individual No.7
+Sequence ID: LC507412.1 Length: 699
+Range 1: 171 to 213
+
+Score:80.5 bits(43), Expect:7e-12, 
+Identities:43/43(100%),  Gaps:0/43(0%), Strand: Plus/Plus
+
+Query  1    CACCTGACTCCTGAGGAGAAGTCTGCCGTTACTGCCCTGTGGG  43
+            |||||||||||||||||||||||||||||||||||||||||||
+Sbjct  171  CACCTGACTCCTGAGGAGAAGTCTGCCGTTACTGCCCTGTGGG  213
+
+
+
+
+>Homo sapiens DNA, contains HBB gene, isolation_source: Iraqi individual No.6
+Sequence ID: LC507411.1 Length: 699
+Range 1: 173 to 215
+
+Score:80.5 bits(43), Expect:7e-12, 
+Identities:43/43(100%),  Gaps:0/43(0%), Strand: Plus/Plus
+
+Query  1    CACCTGACTCCTGAGGAGAAGTCTGCCGTTACTGCCCTGTGGG  43
+            |||||||||||||||||||||||||||||||||||||||||||
+Sbjct  173  CACCTGACTCCTGAGGAGAAGTCTGCCGTTACTGCCCTGTGGG  215
+
+
+
+
+>Homo sapiens DNA, contains HBB gene, isolation_source: Iraqi individual No.5
+Sequence ID: LC507410.1 Length: 699
+Range 1: 167 to 209
+
+Score:80.5 bits(43), Expect:7e-12, 
+Identities:43/43(100%),  Gaps:0/43(0%), Strand: Plus/Plus
+
+Query  1    CACCTGACTCCTGAGGAGAAGTCTGCCGTTACTGCCCTGTGGG  43
+            |||||||||||||||||||||||||||||||||||||||||||
+Sbjct  167  CACCTGACTCCTGAGGAGAAGTCTGCCGTTACTGCCCTGTGGG  209
+
+
+
+
+>Homo sapiens DNA, contains HBB gene, isolation_source: Iraqi individual No.3
+Sequence ID: LC507408.1 Length: 699
+Range 1: 168 to 210
+
+Score:80.5 bits(43), Expect:7e-12, 
+Identities:43/43(100%),  Gaps:0/43(0%), Strand: Plus/Plus
+
+Query  1    CACCTGACTCCTGAGGAGAAGTCTGCCGTTACTGCCCTGTGGG  43
+            |||||||||||||||||||||||||||||||||||||||||||
+Sbjct  168  CACCTGACTCCTGAGGAGAAGTCTGCCGTTACTGCCCTGTGGG  210
+
+
+
+
+>Homo sapiens voucher Yoruba_19_1 hemoglobin subunit beta (HBB) gene, complete cds
+Sequence ID: MK476504.1 Length: 1824
+Range 1: 144 to 186
+
+Score:80.5 bits(43), Expect:7e-12, 
+Identities:43/43(100%),  Gaps:0/43(0%), Strand: Plus/Plus
+
+Query  1    CACCTGACTCCTGAGGAGAAGTCTGCCGTTACTGCCCTGTGGG  43
+            |||||||||||||||||||||||||||||||||||||||||||
+Sbjct  144  CACCTGACTCCTGAGGAGAAGTCTGCCGTTACTGCCCTGTGGG  186
+
+
+
+
+>Homo sapiens voucher Yoruba_19_0 hemoglobin subunit beta (HBB) gene, complete cds
+Sequence ID: MK476503.1 Length: 1824
+Range 1: 144 to 186
+
+Score:80.5 bits(43), Expect:7e-12, 
+Identities:43/43(100%),  Gaps:0/43(0%), Strand: Plus/Plus
+
+Query  1    CACCTGACTCCTGAGGAGAAGTCTGCCGTTACTGCCCTGTGGG  43
+            |||||||||||||||||||||||||||||||||||||||||||
+Sbjct  144  CACCTGACTCCTGAGGAGAAGTCTGCCGTTACTGCCCTGTGGG  186
+
+
+
+
+>Homo sapiens voucher Yoruba_18_1 hemoglobin subunit beta (HBB) gene, complete cds
+Sequence ID: MK476502.1 Length: 1824
+Range 1: 144 to 186
+
+Score:80.5 bits(43), Expect:7e-12, 
+Identities:43/43(100%),  Gaps:0/43(0%), Strand: Plus/Plus
+
+Query  1    CACCTGACTCCTGAGGAGAAGTCTGCCGTTACTGCCCTGTGGG  43
+            |||||||||||||||||||||||||||||||||||||||||||
+Sbjct  144  CACCTGACTCCTGAGGAGAAGTCTGCCGTTACTGCCCTGTGGG  186
+
+
+
+
+>Homo sapiens voucher Yoruba_18_0 hemoglobin subunit beta (HBB) gene, complete cds
+Sequence ID: MK476501.1 Length: 1824
+Range 1: 144 to 186
+
+Score:80.5 bits(43), Expect:7e-12, 
+Identities:43/43(100%),  Gaps:0/43(0%), Strand: Plus/Plus
+
+Query  1    CACCTGACTCCTGAGGAGAAGTCTGCCGTTACTGCCCTGTGGG  43
+            |||||||||||||||||||||||||||||||||||||||||||
+Sbjct  144  CACCTGACTCCTGAGGAGAAGTCTGCCGTTACTGCCCTGTGGG  186
+
+
+
+
+>Homo sapiens voucher Yoruba_17_1 hemoglobin subunit beta (HBB) gene, complete cds
+Sequence ID: MK476500.1 Length: 1824
+Range 1: 144 to 186
+
+Score:80.5 bits(43), Expect:7e-12, 
+Identities:43/43(100%),  Gaps:0/43(0%), Strand: Plus/Plus
+
+Query  1    CACCTGACTCCTGAGGAGAAGTCTGCCGTTACTGCCCTGTGGG  43
+            |||||||||||||||||||||||||||||||||||||||||||
+Sbjct  144  CACCTGACTCCTGAGGAGAAGTCTGCCGTTACTGCCCTGTGGG  186
+
+
+
+
+>Homo sapiens voucher Yoruba_17_0 hemoglobin subunit beta (HBB) gene, complete cds
+Sequence ID: MK476499.1 Length: 1824
+Range 1: 144 to 186
+
+Score:80.5 bits(43), Expect:7e-12, 
+Identities:43/43(100%),  Gaps:0/43(0%), Strand: Plus/Plus
+
+Query  1    CACCTGACTCCTGAGGAGAAGTCTGCCGTTACTGCCCTGTGGG  43
+            |||||||||||||||||||||||||||||||||||||||||||
+Sbjct  144  CACCTGACTCCTGAGGAGAAGTCTGCCGTTACTGCCCTGTGGG  186
+
+
+
+
+>Homo sapiens voucher Yoruba_16_0 hemoglobin subunit beta (HBB) gene, complete cds
+Sequence ID: MK476497.1 Length: 1824
+Range 1: 144 to 186
+
+Score:80.5 bits(43), Expect:7e-12, 
+Identities:43/43(100%),  Gaps:0/43(0%), Strand: Plus/Plus
+
+Query  1    CACCTGACTCCTGAGGAGAAGTCTGCCGTTACTGCCCTGTGGG  43
+            |||||||||||||||||||||||||||||||||||||||||||
+Sbjct  144  CACCTGACTCCTGAGGAGAAGTCTGCCGTTACTGCCCTGTGGG  186
+
+
+
+
+>Homo sapiens voucher Yoruba_15_1 hemoglobin subunit beta (HBB) gene, complete cds
+Sequence ID: MK476496.1 Length: 1824
+Range 1: 144 to 186
+
+Score:80.5 bits(43), Expect:7e-12, 
+Identities:43/43(100%),  Gaps:0/43(0%), Strand: Plus/Plus
+
+Query  1    CACCTGACTCCTGAGGAGAAGTCTGCCGTTACTGCCCTGTGGG  43
+            |||||||||||||||||||||||||||||||||||||||||||
+Sbjct  144  CACCTGACTCCTGAGGAGAAGTCTGCCGTTACTGCCCTGTGGG  186
+
+
+
+
+>Homo sapiens voucher Yoruba_15_0 hemoglobin subunit beta (HBB) gene, complete cds
+Sequence ID: MK476495.1 Length: 1824
+Range 1: 144 to 186
+
+Score:80.5 bits(43), Expect:7e-12, 
+Identities:43/43(100%),  Gaps:0/43(0%), Strand: Plus/Plus
+
+Query  1    CACCTGACTCCTGAGGAGAAGTCTGCCGTTACTGCCCTGTGGG  43
+            |||||||||||||||||||||||||||||||||||||||||||
+Sbjct  144  CACCTGACTCCTGAGGAGAAGTCTGCCGTTACTGCCCTGTGGG  186
+
+
+
+
+>Homo sapiens voucher Yoruba_14_1 hemoglobin subunit beta (HBB) gene, complete cds
+Sequence ID: MK476494.1 Length: 1824
+Range 1: 144 to 186
+
+Score:80.5 bits(43), Expect:7e-12, 
+Identities:43/43(100%),  Gaps:0/43(0%), Strand: Plus/Plus
+
+Query  1    CACCTGACTCCTGAGGAGAAGTCTGCCGTTACTGCCCTGTGGG  43
+            |||||||||||||||||||||||||||||||||||||||||||
+Sbjct  144  CACCTGACTCCTGAGGAGAAGTCTGCCGTTACTGCCCTGTGGG  186
+
+
+
+
+>Homo sapiens voucher Yoruba_13_1 hemoglobin subunit beta (HBB) gene, complete cds
+Sequence ID: MK476492.1 Length: 1824
+Range 1: 144 to 186
+
+Score:80.5 bits(43), Expect:7e-12, 
+Identities:43/43(100%),  Gaps:0/43(0%), Strand: Plus/Plus
+
+Query  1    CACCTGACTCCTGAGGAGAAGTCTGCCGTTACTGCCCTGTGGG  43
+            |||||||||||||||||||||||||||||||||||||||||||
+Sbjct  144  CACCTGACTCCTGAGGAGAAGTCTGCCGTTACTGCCCTGTGGG  186
+
+
+
+
+>Homo sapiens voucher Yoruba_12_1 hemoglobin subunit beta (HBB) gene, complete cds
+Sequence ID: MK476490.1 Length: 1824
+Range 1: 144 to 186
+
+Score:80.5 bits(43), Expect:7e-12, 
+Identities:43/43(100%),  Gaps:0/43(0%), Strand: Plus/Plus
+
+Query  1    CACCTGACTCCTGAGGAGAAGTCTGCCGTTACTGCCCTGTGGG  43
+            |||||||||||||||||||||||||||||||||||||||||||
+Sbjct  144  CACCTGACTCCTGAGGAGAAGTCTGCCGTTACTGCCCTGTGGG  186
+
+
+
+
+>Homo sapiens voucher Yoruba_11_1 hemoglobin subunit beta (HBB) gene, complete cds
+Sequence ID: MK476488.1 Length: 1824
+Range 1: 144 to 186
+
+Score:80.5 bits(43), Expect:7e-12, 
+Identities:43/43(100%),  Gaps:0/43(0%), Strand: Plus/Plus
+
+Query  1    CACCTGACTCCTGAGGAGAAGTCTGCCGTTACTGCCCTGTGGG  43
+            |||||||||||||||||||||||||||||||||||||||||||
+Sbjct  144  CACCTGACTCCTGAGGAGAAGTCTGCCGTTACTGCCCTGTGGG  186
+
+
+
+
+>Homo sapiens voucher Yoruba_11_0 hemoglobin subunit beta (HBB) gene, complete cds
+Sequence ID: MK476487.1 Length: 1824
+Range 1: 144 to 186
+
+Score:80.5 bits(43), Expect:7e-12, 
+Identities:43/43(100%),  Gaps:0/43(0%), Strand: Plus/Plus
+
+Query  1    CACCTGACTCCTGAGGAGAAGTCTGCCGTTACTGCCCTGTGGG  43
+            |||||||||||||||||||||||||||||||||||||||||||
+Sbjct  144  CACCTGACTCCTGAGGAGAAGTCTGCCGTTACTGCCCTGTGGG  186
+
+
+
+
+>Homo sapiens voucher Yoruba_8_1 hemoglobin subunit beta (HBB) gene, complete cds
+Sequence ID: MK476482.1 Length: 1824
+Range 1: 144 to 186
+
+Score:80.5 bits(43), Expect:7e-12, 
+Identities:43/43(100%),  Gaps:0/43(0%), Strand: Plus/Plus
+
+Query  1    CACCTGACTCCTGAGGAGAAGTCTGCCGTTACTGCCCTGTGGG  43
+            |||||||||||||||||||||||||||||||||||||||||||
+Sbjct  144  CACCTGACTCCTGAGGAGAAGTCTGCCGTTACTGCCCTGTGGG  186
+
+
+
+
+>Homo sapiens voucher Yoruba_7_1 hemoglobin subunit beta (HBB) gene, complete cds
+Sequence ID: MK476480.1 Length: 1824
+Range 1: 144 to 186
+
+Score:80.5 bits(43), Expect:7e-12, 
+Identities:43/43(100%),  Gaps:0/43(0%), Strand: Plus/Plus
+
+Query  1    CACCTGACTCCTGAGGAGAAGTCTGCCGTTACTGCCCTGTGGG  43
+            |||||||||||||||||||||||||||||||||||||||||||
+Sbjct  144  CACCTGACTCCTGAGGAGAAGTCTGCCGTTACTGCCCTGTGGG  186
+
+
+
+
+>Homo sapiens voucher Yoruba_7_0 hemoglobin subunit beta (HBB) gene, complete cds
+Sequence ID: MK476479.1 Length: 1824
+Range 1: 144 to 186
+
+Score:80.5 bits(43), Expect:7e-12, 
+Identities:43/43(100%),  Gaps:0/43(0%), Strand: Plus/Plus
+
+Query  1    CACCTGACTCCTGAGGAGAAGTCTGCCGTTACTGCCCTGTGGG  43
+            |||||||||||||||||||||||||||||||||||||||||||
+Sbjct  144  CACCTGACTCCTGAGGAGAAGTCTGCCGTTACTGCCCTGTGGG  186
+
+
+
+
+>Homo sapiens voucher Yoruba_6_1 hemoglobin subunit beta (HBB) gene, complete cds
+Sequence ID: MK476478.1 Length: 1824
+Range 1: 144 to 186
+
+Score:80.5 bits(43), Expect:7e-12, 
+Identities:43/43(100%),  Gaps:0/43(0%), Strand: Plus/Plus
+
+Query  1    CACCTGACTCCTGAGGAGAAGTCTGCCGTTACTGCCCTGTGGG  43
+            |||||||||||||||||||||||||||||||||||||||||||
+Sbjct  144  CACCTGACTCCTGAGGAGAAGTCTGCCGTTACTGCCCTGTGGG  186
+
+
+
+
+>Homo sapiens voucher Yoruba_6_0 hemoglobin subunit beta (HBB) gene, complete cds
+Sequence ID: MK476477.1 Length: 1824
+Range 1: 144 to 186
+
+Score:80.5 bits(43), Expect:7e-12, 
+Identities:43/43(100%),  Gaps:0/43(0%), Strand: Plus/Plus
+
+Query  1    CACCTGACTCCTGAGGAGAAGTCTGCCGTTACTGCCCTGTGGG  43
+            |||||||||||||||||||||||||||||||||||||||||||
+Sbjct  144  CACCTGACTCCTGAGGAGAAGTCTGCCGTTACTGCCCTGTGGG  186
+
+
+
+
+>Homo sapiens voucher Yoruba_5_1 hemoglobin subunit beta (HBB) gene, complete cds
+Sequence ID: MK476476.1 Length: 1824
+Range 1: 144 to 186
+
+Score:80.5 bits(43), Expect:7e-12, 
+Identities:43/43(100%),  Gaps:0/43(0%), Strand: Plus/Plus
+
+Query  1    CACCTGACTCCTGAGGAGAAGTCTGCCGTTACTGCCCTGTGGG  43
+            |||||||||||||||||||||||||||||||||||||||||||
+Sbjct  144  CACCTGACTCCTGAGGAGAAGTCTGCCGTTACTGCCCTGTGGG  186
+
+
+
+
+>Homo sapiens voucher Yoruba_5_0 hemoglobin subunit beta (HBB) gene, complete cds
+Sequence ID: MK476475.1 Length: 1824
+Range 1: 144 to 186
+
+Score:80.5 bits(43), Expect:7e-12, 
+Identities:43/43(100%),  Gaps:0/43(0%), Strand: Plus/Plus
+
+Query  1    CACCTGACTCCTGAGGAGAAGTCTGCCGTTACTGCCCTGTGGG  43
+            |||||||||||||||||||||||||||||||||||||||||||
+Sbjct  144  CACCTGACTCCTGAGGAGAAGTCTGCCGTTACTGCCCTGTGGG  186
+
+
+
+
+>Homo sapiens voucher Yoruba_4_0 hemoglobin subunit beta (HBB) gene, complete cds
+Sequence ID: MK476473.1 Length: 1824
+Range 1: 144 to 186
+
+Score:80.5 bits(43), Expect:7e-12, 
+Identities:43/43(100%),  Gaps:0/43(0%), Strand: Plus/Plus
+
+Query  1    CACCTGACTCCTGAGGAGAAGTCTGCCGTTACTGCCCTGTGGG  43
+            |||||||||||||||||||||||||||||||||||||||||||
+Sbjct  144  CACCTGACTCCTGAGGAGAAGTCTGCCGTTACTGCCCTGTGGG  186
+
+
+
+
+>Homo sapiens voucher Yoruba_2_0 hemoglobin subunit beta (HBB) gene, complete cds
+Sequence ID: MK476469.1 Length: 1824
+Range 1: 144 to 186
+
+Score:80.5 bits(43), Expect:7e-12, 
+Identities:43/43(100%),  Gaps:0/43(0%), Strand: Plus/Plus
+
+Query  1    CACCTGACTCCTGAGGAGAAGTCTGCCGTTACTGCCCTGTGGG  43
+            |||||||||||||||||||||||||||||||||||||||||||
+Sbjct  144  CACCTGACTCCTGAGGAGAAGTCTGCCGTTACTGCCCTGTGGG  186
+
+
+
+
+>Homo sapiens voucher Yoruba_1_1 hemoglobin subunit beta (HBB) gene, complete cds
+Sequence ID: MK476468.1 Length: 1824
+Range 1: 144 to 186
+
+Score:80.5 bits(43), Expect:7e-12, 
+Identities:43/43(100%),  Gaps:0/43(0%), Strand: Plus/Plus
+
+Query  1    CACCTGACTCCTGAGGAGAAGTCTGCCGTTACTGCCCTGTGGG  43
+            |||||||||||||||||||||||||||||||||||||||||||
+Sbjct  144  CACCTGACTCCTGAGGAGAAGTCTGCCGTTACTGCCCTGTGGG  186
+
+
+
+
+>Homo sapiens voucher Yoruba_1_0 hemoglobin subunit beta (HBB) gene, complete cds
+Sequence ID: MK476467.1 Length: 1824
+Range 1: 144 to 186
+
+Score:80.5 bits(43), Expect:7e-12, 
+Identities:43/43(100%),  Gaps:0/43(0%), Strand: Plus/Plus
+
+Query  1    CACCTGACTCCTGAGGAGAAGTCTGCCGTTACTGCCCTGTGGG  43
+            |||||||||||||||||||||||||||||||||||||||||||
+Sbjct  144  CACCTGACTCCTGAGGAGAAGTCTGCCGTTACTGCCCTGTGGG  186
+
+
+
+
+>Homo sapiens voucher Mandenka_20_0 hemoglobin subunit beta (HBB) gene, complete cds
+Sequence ID: MK476465.1 Length: 1824
+Range 1: 144 to 186
+
+Score:80.5 bits(43), Expect:7e-12, 
+Identities:43/43(100%),  Gaps:0/43(0%), Strand: Plus/Plus
+
+Query  1    CACCTGACTCCTGAGGAGAAGTCTGCCGTTACTGCCCTGTGGG  43
+            |||||||||||||||||||||||||||||||||||||||||||
+Sbjct  144  CACCTGACTCCTGAGGAGAAGTCTGCCGTTACTGCCCTGTGGG  186
+
+
+
+
+>Homo sapiens voucher Mandenka_19_0 hemoglobin subunit beta (HBB) gene, complete cds
+Sequence ID: MK476463.1 Length: 1824
+Range 1: 144 to 186
+
+Score:80.5 bits(43), Expect:7e-12, 
+Identities:43/43(100%),  Gaps:0/43(0%), Strand: Plus/Plus
+
+Query  1    CACCTGACTCCTGAGGAGAAGTCTGCCGTTACTGCCCTGTGGG  43
+            |||||||||||||||||||||||||||||||||||||||||||
+Sbjct  144  CACCTGACTCCTGAGGAGAAGTCTGCCGTTACTGCCCTGTGGG  186
+
+
+
+
+>Homo sapiens voucher Mandenka_18_1 hemoglobin subunit beta (HBB) gene, complete cds
+Sequence ID: MK476462.1 Length: 1824
+Range 1: 144 to 186
+
+Score:80.5 bits(43), Expect:7e-12, 
+Identities:43/43(100%),  Gaps:0/43(0%), Strand: Plus/Plus
+
+Query  1    CACCTGACTCCTGAGGAGAAGTCTGCCGTTACTGCCCTGTGGG  43
+            |||||||||||||||||||||||||||||||||||||||||||
+Sbjct  144  CACCTGACTCCTGAGGAGAAGTCTGCCGTTACTGCCCTGTGGG  186
+
+
+
+
+>Homo sapiens voucher Mandenka_18_0 hemoglobin subunit beta (HBB) gene, complete cds
+Sequence ID: MK476461.1 Length: 1824
+Range 1: 144 to 186
+
+Score:80.5 bits(43), Expect:7e-12, 
+Identities:43/43(100%),  Gaps:0/43(0%), Strand: Plus/Plus
+
+Query  1    CACCTGACTCCTGAGGAGAAGTCTGCCGTTACTGCCCTGTGGG  43
+            |||||||||||||||||||||||||||||||||||||||||||
+Sbjct  144  CACCTGACTCCTGAGGAGAAGTCTGCCGTTACTGCCCTGTGGG  186
+
+
+
+
+>Homo sapiens voucher Mandenka_17_1 hemoglobin subunit beta (HBB) gene, complete cds
+Sequence ID: MK476460.1 Length: 1824
+Range 1: 144 to 186
+
+Score:80.5 bits(43), Expect:7e-12, 
+Identities:43/43(100%),  Gaps:0/43(0%), Strand: Plus/Plus
+
+Query  1    CACCTGACTCCTGAGGAGAAGTCTGCCGTTACTGCCCTGTGGG  43
+            |||||||||||||||||||||||||||||||||||||||||||
+Sbjct  144  CACCTGACTCCTGAGGAGAAGTCTGCCGTTACTGCCCTGTGGG  186
+
+
+
+
+>Homo sapiens voucher Mandenka_16_1 hemoglobin subunit beta (HBB) gene, complete cds
+Sequence ID: MK476458.1 Length: 1824
+Range 1: 144 to 186
+
+Score:80.5 bits(43), Expect:7e-12, 
+Identities:43/43(100%),  Gaps:0/43(0%), Strand: Plus/Plus
+
+Query  1    CACCTGACTCCTGAGGAGAAGTCTGCCGTTACTGCCCTGTGGG  43
+            |||||||||||||||||||||||||||||||||||||||||||
+Sbjct  144  CACCTGACTCCTGAGGAGAAGTCTGCCGTTACTGCCCTGTGGG  186
+
+
+
+
+>Homo sapiens voucher Mandenka_16_0 hemoglobin subunit beta (HBB) gene, complete cds
+Sequence ID: MK476457.1 Length: 1824
+Range 1: 144 to 186
+
+Score:80.5 bits(43), Expect:7e-12, 
+Identities:43/43(100%),  Gaps:0/43(0%), Strand: Plus/Plus
+
+Query  1    CACCTGACTCCTGAGGAGAAGTCTGCCGTTACTGCCCTGTGGG  43
+            |||||||||||||||||||||||||||||||||||||||||||
+Sbjct  144  CACCTGACTCCTGAGGAGAAGTCTGCCGTTACTGCCCTGTGGG  186
+
+
+
+
+>Homo sapiens voucher Mandenka_15_1 hemoglobin subunit beta (HBB) gene, complete cds
+Sequence ID: MK476456.1 Length: 1824
+Range 1: 144 to 186
+
+Score:80.5 bits(43), Expect:7e-12, 
+Identities:43/43(100%),  Gaps:0/43(0%), Strand: Plus/Plus
+
+Query  1    CACCTGACTCCTGAGGAGAAGTCTGCCGTTACTGCCCTGTGGG  43
+            |||||||||||||||||||||||||||||||||||||||||||
+Sbjct  144  CACCTGACTCCTGAGGAGAAGTCTGCCGTTACTGCCCTGTGGG  186
+
+
+
+
+>Homo sapiens voucher Mandenka_15_0 hemoglobin subunit beta (HBB) gene, complete cds
+Sequence ID: MK476455.1 Length: 1824
+Range 1: 144 to 186
+
+Score:80.5 bits(43), Expect:7e-12, 
+Identities:43/43(100%),  Gaps:0/43(0%), Strand: Plus/Plus
+
+Query  1    CACCTGACTCCTGAGGAGAAGTCTGCCGTTACTGCCCTGTGGG  43
+            |||||||||||||||||||||||||||||||||||||||||||
+Sbjct  144  CACCTGACTCCTGAGGAGAAGTCTGCCGTTACTGCCCTGTGGG  186
+
+
+
+
+>Homo sapiens voucher Mandenka_14_1 hemoglobin subunit beta (HBB) gene, complete cds
+Sequence ID: MK476454.1 Length: 1824
+Range 1: 144 to 186
+
+Score:80.5 bits(43), Expect:7e-12, 
+Identities:43/43(100%),  Gaps:0/43(0%), Strand: Plus/Plus
+
+Query  1    CACCTGACTCCTGAGGAGAAGTCTGCCGTTACTGCCCTGTGGG  43
+            |||||||||||||||||||||||||||||||||||||||||||
+Sbjct  144  CACCTGACTCCTGAGGAGAAGTCTGCCGTTACTGCCCTGTGGG  186
+
+
+
+
+>Homo sapiens voucher Mandenka_14_0 hemoglobin subunit beta (HBB) gene, complete cds
+Sequence ID: MK476453.1 Length: 1824
+Range 1: 144 to 186
+
+Score:80.5 bits(43), Expect:7e-12, 
+Identities:43/43(100%),  Gaps:0/43(0%), Strand: Plus/Plus
+
+Query  1    CACCTGACTCCTGAGGAGAAGTCTGCCGTTACTGCCCTGTGGG  43
+            |||||||||||||||||||||||||||||||||||||||||||
+Sbjct  144  CACCTGACTCCTGAGGAGAAGTCTGCCGTTACTGCCCTGTGGG  186
+
+
+
+
+>Homo sapiens voucher Mandenka_13_1 hemoglobin subunit beta (HBB) gene, complete cds
+Sequence ID: MK476452.1 Length: 1824
+Range 1: 144 to 186
+
+Score:80.5 bits(43), Expect:7e-12, 
+Identities:43/43(100%),  Gaps:0/43(0%), Strand: Plus/Plus
+
+Query  1    CACCTGACTCCTGAGGAGAAGTCTGCCGTTACTGCCCTGTGGG  43
+            |||||||||||||||||||||||||||||||||||||||||||
+Sbjct  144  CACCTGACTCCTGAGGAGAAGTCTGCCGTTACTGCCCTGTGGG  186
+
+
+
+
+>Homo sapiens voucher Mandenka_13_0 hemoglobin subunit beta (HBB) gene, complete cds
+Sequence ID: MK476451.1 Length: 1824
+Range 1: 144 to 186
+
+Score:80.5 bits(43), Expect:7e-12, 
+Identities:43/43(100%),  Gaps:0/43(0%), Strand: Plus/Plus
+
+Query  1    CACCTGACTCCTGAGGAGAAGTCTGCCGTTACTGCCCTGTGGG  43
+            |||||||||||||||||||||||||||||||||||||||||||
+Sbjct  144  CACCTGACTCCTGAGGAGAAGTCTGCCGTTACTGCCCTGTGGG  186
+
+
+
+
+>Homo sapiens voucher Mandenka_12_0 hemoglobin subunit beta (HBB) gene, complete cds
+Sequence ID: MK476449.1 Length: 1824
+Range 1: 144 to 186
+
+Score:80.5 bits(43), Expect:7e-12, 
+Identities:43/43(100%),  Gaps:0/43(0%), Strand: Plus/Plus
+
+Query  1    CACCTGACTCCTGAGGAGAAGTCTGCCGTTACTGCCCTGTGGG  43
+            |||||||||||||||||||||||||||||||||||||||||||
+Sbjct  144  CACCTGACTCCTGAGGAGAAGTCTGCCGTTACTGCCCTGTGGG  186
+
+
+
+
+>Homo sapiens voucher Mandenka_10_0 hemoglobin subunit beta (HBB) gene, complete cds
+Sequence ID: MK476445.1 Length: 1824
+Range 1: 144 to 186
+
+Score:80.5 bits(43), Expect:7e-12, 
+Identities:43/43(100%),  Gaps:0/43(0%), Strand: Plus/Plus
+
+Query  1    CACCTGACTCCTGAGGAGAAGTCTGCCGTTACTGCCCTGTGGG  43
+            |||||||||||||||||||||||||||||||||||||||||||
+Sbjct  144  CACCTGACTCCTGAGGAGAAGTCTGCCGTTACTGCCCTGTGGG  186
+
+
+
+
+>Homo sapiens voucher Mandenka_9_1 hemoglobin subunit beta (HBB) gene, complete cds
+Sequence ID: MK476444.1 Length: 1824
+Range 1: 144 to 186
+
+Score:80.5 bits(43), Expect:7e-12, 
+Identities:43/43(100%),  Gaps:0/43(0%), Strand: Plus/Plus
+
+Query  1    CACCTGACTCCTGAGGAGAAGTCTGCCGTTACTGCCCTGTGGG  43
+            |||||||||||||||||||||||||||||||||||||||||||
+Sbjct  144  CACCTGACTCCTGAGGAGAAGTCTGCCGTTACTGCCCTGTGGG  186
+
+
+
+
+>PREDICTED: Pan troglodytes hemoglobin subunit beta (HBB), mRNA
+Sequence ID: XM_508242.5 Length: 639
+Range 1: 68 to 110
+
+Score:80.5 bits(43), Expect:7e-12, 
+Identities:43/43(100%),  Gaps:0/43(0%), Strand: Plus/Plus
+
+Query  1    CACCTGACTCCTGAGGAGAAGTCTGCCGTTACTGCCCTGTGGG  43
+            |||||||||||||||||||||||||||||||||||||||||||
+Sbjct  68   CACCTGACTCCTGAGGAGAAGTCTGCCGTTACTGCCCTGTGGG  110
+
+
+
+
+>Homo sapiens isolate 30 hemoglobin beta chain (HBB) gene, partial cds
+Sequence ID: ON584459.1 Length: 599
+Range 1: 146 to 188
+
+Score:80.5 bits(43), Expect:7e-12, 
+Identities:43/43(100%),  Gaps:0/43(0%), Strand: Plus/Plus
+
+Query  1    CACCTGACTCCTGAGGAGAAGTCTGCCGTTACTGCCCTGTGGG  43
+            |||||||||||||||||||||||||||||||||||||||||||
+Sbjct  146  CACCTGACTCCTGAGGAGAAGTCTGCCGTTACTGCCCTGTGGG  188
+
+
+
+
+>Homo sapiens isolate 27 hemoglobin beta chain (HBB) gene, partial cds
+Sequence ID: ON584456.1 Length: 599
+Range 1: 146 to 188
+
+Score:80.5 bits(43), Expect:7e-12, 
+Identities:43/43(100%),  Gaps:0/43(0%), Strand: Plus/Plus
+
+Query  1    CACCTGACTCCTGAGGAGAAGTCTGCCGTTACTGCCCTGTGGG  43
+            |||||||||||||||||||||||||||||||||||||||||||
+Sbjct  146  CACCTGACTCCTGAGGAGAAGTCTGCCGTTACTGCCCTGTGGG  188
+
+
+
+
+>Homo sapiens isolate 24 hemoglobin beta chain (HBB) gene, partial cds
+Sequence ID: ON584453.1 Length: 599
+Range 1: 146 to 188
+
+Score:80.5 bits(43), Expect:7e-12, 
+Identities:43/43(100%),  Gaps:0/43(0%), Strand: Plus/Plus
+
+Query  1    CACCTGACTCCTGAGGAGAAGTCTGCCGTTACTGCCCTGTGGG  43
+            |||||||||||||||||||||||||||||||||||||||||||
+Sbjct  146  CACCTGACTCCTGAGGAGAAGTCTGCCGTTACTGCCCTGTGGG  188
+
+
+
+
+>Homo sapiens isolate 7 hemoglobin beta chain (HBB) gene, partial cds
+Sequence ID: ON584436.1 Length: 599
+Range 1: 146 to 188
+
+Score:80.5 bits(43), Expect:7e-12, 
+Identities:43/43(100%),  Gaps:0/43(0%), Strand: Plus/Plus
+
+Query  1    CACCTGACTCCTGAGGAGAAGTCTGCCGTTACTGCCCTGTGGG  43
+            |||||||||||||||||||||||||||||||||||||||||||
+Sbjct  146  CACCTGACTCCTGAGGAGAAGTCTGCCGTTACTGCCCTGTGGG  188
+
+
+
+
+>Homo sapiens isolate 4 hemoglobin beta chain (HBB) gene, partial cds
+Sequence ID: ON584433.1 Length: 599
+Range 1: 146 to 188
+
+Score:80.5 bits(43), Expect:7e-12, 
+Identities:43/43(100%),  Gaps:0/43(0%), Strand: Plus/Plus
+
+Query  1    CACCTGACTCCTGAGGAGAAGTCTGCCGTTACTGCCCTGTGGG  43
+            |||||||||||||||||||||||||||||||||||||||||||
+Sbjct  146  CACCTGACTCCTGAGGAGAAGTCTGCCGTTACTGCCCTGTGGG  188
+
+
+
+
+>Homo sapiens isolate 3 hemoglobin beta chain (HBB) gene, partial cds
+Sequence ID: ON584432.1 Length: 599
+Range 1: 146 to 188
+
+Score:80.5 bits(43), Expect:7e-12, 
+Identities:43/43(100%),  Gaps:0/43(0%), Strand: Plus/Plus
+
+Query  1    CACCTGACTCCTGAGGAGAAGTCTGCCGTTACTGCCCTGTGGG  43
+            |||||||||||||||||||||||||||||||||||||||||||
+Sbjct  146  CACCTGACTCCTGAGGAGAAGTCTGCCGTTACTGCCCTGTGGG  188
+
+
+
+
+>Homo sapiens B8_389GA HBB gene for hemoglobin subunit beta, partial sequence
+Sequence ID: LC727515.1 Length: 657
+Range 1: 169 to 211
+
+Score:80.5 bits(43), Expect:7e-12, 
+Identities:43/43(100%),  Gaps:0/43(0%), Strand: Plus/Plus
+
+Query  1    CACCTGACTCCTGAGGAGAAGTCTGCCGTTACTGCCCTGTGGG  43
+            |||||||||||||||||||||||||||||||||||||||||||
+Sbjct  169  CACCTGACTCCTGAGGAGAAGTCTGCCGTTACTGCCCTGTGGG  211
+
+
+
+
+>Homo sapiens B6_294CC HBB gene for hemoglobin subunit beta, partial sequence
+Sequence ID: LC727513.1 Length: 657
+Range 1: 169 to 211
+
+Score:80.5 bits(43), Expect:7e-12, 
+Identities:43/43(100%),  Gaps:0/43(0%), Strand: Plus/Plus
+
+Query  1    CACCTGACTCCTGAGGAGAAGTCTGCCGTTACTGCCCTGTGGG  43
+            |||||||||||||||||||||||||||||||||||||||||||
+Sbjct  169  CACCTGACTCCTGAGGAGAAGTCTGCCGTTACTGCCCTGTGGG  211
+
+
+
+
+>Homo sapiens B7_294TC HBB gene for hemoglobin subunit beta, partial sequence
+Sequence ID: LC727512.1 Length: 657
+Range 1: 169 to 211
+
+Score:80.5 bits(43), Expect:7e-12, 
+Identities:43/43(100%),  Gaps:0/43(0%), Strand: Plus/Plus
+
+Query  1    CACCTGACTCCTGAGGAGAAGTCTGCCGTTACTGCCCTGTGGG  43
+            |||||||||||||||||||||||||||||||||||||||||||
+Sbjct  169  CACCTGACTCCTGAGGAGAAGTCTGCCGTTACTGCCCTGTGGG  211
+
+
+
+
+>Homo sapiens B5_294TT HBB gene for hemoglobin subunit beta, partial sequence
+Sequence ID: LC727511.1 Length: 657
+>Homo sapiens B10_389AA HBB gene for hemoglobin subunit beta, partial sequence
+Sequence ID: LC727516.1 Length: 657 
+Range 1: 169 to 211
+
+Score:80.5 bits(43), Expect:7e-12, 
+Identities:43/43(100%),  Gaps:0/43(0%), Strand: Plus/Plus
+
+Query  1    CACCTGACTCCTGAGGAGAAGTCTGCCGTTACTGCCCTGTGGG  43
+            |||||||||||||||||||||||||||||||||||||||||||
+Sbjct  169  CACCTGACTCCTGAGGAGAAGTCTGCCGTTACTGCCCTGTGGG  211
+
+
+
+
+>Homo sapiens B1_205CC HBB gene for hemoglobin subunit beta, partial sequence
+Sequence ID: LC727508.1 Length: 657
+>Homo sapiens B8_389GG HBB gene for hemoglobin subunit beta, partial sequence
+Sequence ID: LC727514.1 Length: 657 
+Range 1: 169 to 211
+
+Score:80.5 bits(43), Expect:7e-12, 
+Identities:43/43(100%),  Gaps:0/43(0%), Strand: Plus/Plus
+
+Query  1    CACCTGACTCCTGAGGAGAAGTCTGCCGTTACTGCCCTGTGGG  43
+            |||||||||||||||||||||||||||||||||||||||||||
+Sbjct  169  CACCTGACTCCTGAGGAGAAGTCTGCCGTTACTGCCCTGTGGG  211
+
+
+
+
+>Homo sapiens isolate B2 beta globin (HBB) gene, partial cds
+Sequence ID: MW038840.1 Length: 565
+Range 1: 57 to 99
+
+Score:80.5 bits(43), Expect:7e-12, 
+Identities:43/43(100%),  Gaps:0/43(0%), Strand: Plus/Plus
+
+Query  1   CACCTGACTCCTGAGGAGAAGTCTGCCGTTACTGCCCTGTGGG  43
+           |||||||||||||||||||||||||||||||||||||||||||
+Sbjct  57  CACCTGACTCCTGAGGAGAAGTCTGCCGTTACTGCCCTGTGGG  99
+
+
+
+
+>Homo sapiens Iraqi individua, F 7 HBB gene for hemoglobin subunit beta, partial sequence
+Sequence ID: LC632701.1 Length: 699
+Range 1: 167 to 209
+
+Score:80.5 bits(43), Expect:7e-12, 
+Identities:43/43(100%),  Gaps:0/43(0%), Strand: Plus/Plus
+
+Query  1    CACCTGACTCCTGAGGAGAAGTCTGCCGTTACTGCCCTGTGGG  43
+            |||||||||||||||||||||||||||||||||||||||||||
+Sbjct  167  CACCTGACTCCTGAGGAGAAGTCTGCCGTTACTGCCCTGTGGG  209
+
+
+
+
+>Homo sapiens Iraqi individua, F 6 HBB gene for hemoglobin subunit beta, partial sequence
+Sequence ID: LC632700.1 Length: 699
+Range 1: 169 to 211
+
+Score:80.5 bits(43), Expect:7e-12, 
+Identities:43/43(100%),  Gaps:0/43(0%), Strand: Plus/Plus
+
+Query  1    CACCTGACTCCTGAGGAGAAGTCTGCCGTTACTGCCCTGTGGG  43
+            |||||||||||||||||||||||||||||||||||||||||||
+Sbjct  169  CACCTGACTCCTGAGGAGAAGTCTGCCGTTACTGCCCTGTGGG  211
+
+
+
+
+>Homo sapiens Iraqi individua, F 5 HBB gene for hemoglobin subunit beta, partial sequence
+Sequence ID: LC632699.1 Length: 699
+Range 1: 176 to 218
+
+Score:80.5 bits(43), Expect:7e-12, 
+Identities:43/43(100%),  Gaps:0/43(0%), Strand: Plus/Plus
+
+Query  1    CACCTGACTCCTGAGGAGAAGTCTGCCGTTACTGCCCTGTGGG  43
+            |||||||||||||||||||||||||||||||||||||||||||
+Sbjct  176  CACCTGACTCCTGAGGAGAAGTCTGCCGTTACTGCCCTGTGGG  218
+
+
+
+
+>Homo sapiens Iraqi individua, F 4 HBB gene for hemoglobin subunit beta, partial sequence
+Sequence ID: LC632698.1 Length: 699
+Range 1: 168 to 210
+
+Score:80.5 bits(43), Expect:7e-12, 
+Identities:43/43(100%),  Gaps:0/43(0%), Strand: Plus/Plus
+
+Query  1    CACCTGACTCCTGAGGAGAAGTCTGCCGTTACTGCCCTGTGGG  43
+            |||||||||||||||||||||||||||||||||||||||||||
+Sbjct  168  CACCTGACTCCTGAGGAGAAGTCTGCCGTTACTGCCCTGTGGG  210
+
+
+
+
+>Homo sapiens Iraqi individua, F 3 HBB gene for hemoglobin subunit beta, partial sequence
+Sequence ID: LC632697.1 Length: 699
+Range 1: 171 to 213
+
+Score:80.5 bits(43), Expect:7e-12, 
+Identities:43/43(100%),  Gaps:0/43(0%), Strand: Plus/Plus
+
+Query  1    CACCTGACTCCTGAGGAGAAGTCTGCCGTTACTGCCCTGTGGG  43
+            |||||||||||||||||||||||||||||||||||||||||||
+Sbjct  171  CACCTGACTCCTGAGGAGAAGTCTGCCGTTACTGCCCTGTGGG  213
+
+
+
+
+>Homo sapiens Iraqi individua, F 2 HBB gene for hemoglobin subunit beta, partial sequence
+Sequence ID: LC632696.1 Length: 699
+Range 1: 170 to 212
+
+Score:80.5 bits(43), Expect:7e-12, 
+Identities:43/43(100%),  Gaps:0/43(0%), Strand: Plus/Plus
+
+Query  1    CACCTGACTCCTGAGGAGAAGTCTGCCGTTACTGCCCTGTGGG  43
+            |||||||||||||||||||||||||||||||||||||||||||
+Sbjct  170  CACCTGACTCCTGAGGAGAAGTCTGCCGTTACTGCCCTGTGGG  212
+
+
+
+
+>Homo sapiens Iraqi individua, F 1 HBB gene for hemoglobin subunit beta, partial sequence
+Sequence ID: LC632695.1 Length: 699
+Range 1: 173 to 215
+
+Score:80.5 bits(43), Expect:7e-12, 
+Identities:43/43(100%),  Gaps:0/43(0%), Strand: Plus/Plus
+
+Query  1    CACCTGACTCCTGAGGAGAAGTCTGCCGTTACTGCCCTGTGGG  43
+            |||||||||||||||||||||||||||||||||||||||||||
+Sbjct  173  CACCTGACTCCTGAGGAGAAGTCTGCCGTTACTGCCCTGTGGG  215
+
+
+
+
+>Homo sapiens Iraqi individual, E 6 HBB gene for hemoglobin subunit beta, partial sequence
+Sequence ID: LC632688.1 Length: 699
+Range 1: 170 to 212
+
+Score:80.5 bits(43), Expect:7e-12, 
+Identities:43/43(100%),  Gaps:0/43(0%), Strand: Plus/Plus
+
+Query  1    CACCTGACTCCTGAGGAGAAGTCTGCCGTTACTGCCCTGTGGG  43
+            |||||||||||||||||||||||||||||||||||||||||||
+Sbjct  170  CACCTGACTCCTGAGGAGAAGTCTGCCGTTACTGCCCTGTGGG  212
+
+
+
+
+>Homo sapiens Iraqi individual, E 5 HBB gene for hemoglobin subunit beta, partial sequence
+Sequence ID: LC632687.1 Length: 699
+Range 1: 169 to 211
+
+Score:80.5 bits(43), Expect:7e-12, 
+Identities:43/43(100%),  Gaps:0/43(0%), Strand: Plus/Plus
+
+Query  1    CACCTGACTCCTGAGGAGAAGTCTGCCGTTACTGCCCTGTGGG  43
+            |||||||||||||||||||||||||||||||||||||||||||
+Sbjct  169  CACCTGACTCCTGAGGAGAAGTCTGCCGTTACTGCCCTGTGGG  211
+
+
+
+
+>Homo sapiens Iraqi individual, E3 HBB gene for hemoglobin subunit beta, partial sequence
+Sequence ID: LC632685.1 Length: 699
+Range 1: 172 to 214
+
+Score:80.5 bits(43), Expect:7e-12, 
+Identities:43/43(100%),  Gaps:0/43(0%), Strand: Plus/Plus
+
+Query  1    CACCTGACTCCTGAGGAGAAGTCTGCCGTTACTGCCCTGTGGG  43
+            |||||||||||||||||||||||||||||||||||||||||||
+Sbjct  172  CACCTGACTCCTGAGGAGAAGTCTGCCGTTACTGCCCTGTGGG  214
+
+
+
+
+>Homo sapiens Iraqi individual, E 2 HBB gene for hemoglobin subunit beta, partial sequence
+Sequence ID: LC632684.1 Length: 699
+Range 1: 179 to 221
+
+Score:80.5 bits(43), Expect:7e-12, 
+Identities:43/43(100%),  Gaps:0/43(0%), Strand: Plus/Plus
+
+Query  1    CACCTGACTCCTGAGGAGAAGTCTGCCGTTACTGCCCTGTGGG  43
+            |||||||||||||||||||||||||||||||||||||||||||
+Sbjct  179  CACCTGACTCCTGAGGAGAAGTCTGCCGTTACTGCCCTGTGGG  221
+
+
+
+
+>Homo sapiens Iraqi individual, E 1 HBB gene for hemoglobin subunit beta, partial sequence
+Sequence ID: LC632683.1 Length: 699
+Range 1: 177 to 219
+
+Score:80.5 bits(43), Expect:7e-12, 
+Identities:43/43(100%),  Gaps:0/43(0%), Strand: Plus/Plus
+
+Query  1    CACCTGACTCCTGAGGAGAAGTCTGCCGTTACTGCCCTGTGGG  43
+            |||||||||||||||||||||||||||||||||||||||||||
+Sbjct  177  CACCTGACTCCTGAGGAGAAGTCTGCCGTTACTGCCCTGTGGG  219
+
+
+
+
+>Homo sapiens isolate 33 hemoglobin beta chain (HBB) gene, partial cds
+Sequence ID: ON584462.1 Length: 599
+Range 1: 146 to 188
+
+Score:76.8 bits(41), Expect:9e-11, 
+Identities:42/43(98%),  Gaps:0/43(0%), Strand: Plus/Plus
+
+Query  1    CACCTGACTCCTGAGGAGAAGTCTGCCGTTACTGCCCTGTGGG  43
+            || ||||||||||||||||||||||||||||||||||||||||
+Sbjct  146  CAYCTGACTCCTGAGGAGAAGTCTGCCGTTACTGCCCTGTGGG  188
+
+
+
+
+>Homo sapiens isolate 32 hemoglobin beta chain (HBB) gene, partial cds
+Sequence ID: ON584461.1 Length: 599
+Range 1: 146 to 188
+
+Score:76.8 bits(41), Expect:9e-11, 
+Identities:42/43(98%),  Gaps:0/43(0%), Strand: Plus/Plus
+
+Query  1    CACCTGACTCCTGAGGAGAAGTCTGCCGTTACTGCCCTGTGGG  43
+            || ||||||||||||||||||||||||||||||||||||||||
+Sbjct  146  CAYCTGACTCCTGAGGAGAAGTCTGCCGTTACTGCCCTGTGGG  188
+
+
+
+
+>Homo sapiens isolate 29 nonfunctional hemoglobin beta chain genomic sequence
+Sequence ID: ON584458.1 Length: 598
+Range 1: 146 to 188
+
+Score:76.8 bits(41), Expect:9e-11, 
+Identities:42/43(98%),  Gaps:0/43(0%), Strand: Plus/Plus
+
+Query  1    CACCTGACTCCTGAGGAGAAGTCTGCCGTTACTGCCCTGTGGG  43
+            || ||||||||||||||||||||||||||||||||||||||||
+Sbjct  146  CAYCTGACTCCTGAGGAGAAGTCTGCCGTTACTGCCCTGTGGG  188
+
+
+
+
+>Homo sapiens isolate 28 hemoglobin beta chain (HBB) gene, partial cds
+Sequence ID: ON584457.1 Length: 599
+Range 1: 146 to 188
+
+Score:76.8 bits(41), Expect:9e-11, 
+Identities:42/43(98%),  Gaps:0/43(0%), Strand: Plus/Plus
+
+Query  1    CACCTGACTCCTGAGGAGAAGTCTGCCGTTACTGCCCTGTGGG  43
+            || ||||||||||||||||||||||||||||||||||||||||
+Sbjct  146  CAYCTGACTCCTGAGGAGAAGTCTGCCGTTACTGCCCTGTGGG  188
+
+
+
+
+>Homo sapiens isolate 26 nonfunctional hemoglobin beta chain genomic sequence
+Sequence ID: ON584455.1 Length: 598
+Range 1: 146 to 188
+
+Score:76.8 bits(41), Expect:9e-11, 
+Identities:42/43(98%),  Gaps:0/43(0%), Strand: Plus/Plus
+
+Query  1    CACCTGACTCCTGAGGAGAAGTCTGCCGTTACTGCCCTGTGGG  43
+            || ||||||||||||||||||||||||||||||||||||||||
+Sbjct  146  CAYCTGACTCCTGAGGAGAAGTCTGCCGTTACTGCCCTGTGGG  188
+
+
+
+
+>Homo sapiens isolate 25 hemoglobin beta chain (HBB) gene, partial cds
+Sequence ID: ON584454.1 Length: 599
+Range 1: 146 to 188
+
+Score:76.8 bits(41), Expect:9e-11, 
+Identities:42/43(98%),  Gaps:0/43(0%), Strand: Plus/Plus
+
+Query  1    CACCTGACTCCTGAGGAGAAGTCTGCCGTTACTGCCCTGTGGG  43
+            || ||||||||||||||||||||||||||||||||||||||||
+Sbjct  146  CAYCTGACTCCTGAGGAGAAGTCTGCCGTTACTGCCCTGTGGG  188
+
+
+
+
+>Homo sapiens isolate 23 hemoglobin beta chain (HBB) gene, partial cds
+Sequence ID: ON584452.1 Length: 599
+Range 1: 146 to 188
+
+Score:76.8 bits(41), Expect:9e-11, 
+Identities:42/43(98%),  Gaps:0/43(0%), Strand: Plus/Plus
+
+Query  1    CACCTGACTCCTGAGGAGAAGTCTGCCGTTACTGCCCTGTGGG  43
+            || ||||||||||||||||||||||||||||||||||||||||
+Sbjct  146  CAYCTGACTCCTGAGGAGAAGTCTGCCGTTACTGCCCTGTGGG  188
+
+
+
+
+>Homo sapiens isolate 22 hemoglobin beta chain (HBB) gene, partial cds
+Sequence ID: ON584451.1 Length: 599
+Range 1: 146 to 188
+
+Score:76.8 bits(41), Expect:9e-11, 
+Identities:42/43(98%),  Gaps:0/43(0%), Strand: Plus/Plus
+
+Query  1    CACCTGACTCCTGAGGAGAAGTCTGCCGTTACTGCCCTGTGGG  43
+            || ||||||||||||||||||||||||||||||||||||||||
+Sbjct  146  CAYCTGACTCCTGAGGAGAAGTCTGCCGTTACTGCCCTGTGGG  188
+
+
+
+
+>Homo sapiens isolate 21 hemoglobin beta chain (HBB) gene, partial cds
+Sequence ID: ON584450.1 Length: 599
+Range 1: 146 to 188
+
+Score:76.8 bits(41), Expect:9e-11, 
+Identities:42/43(98%),  Gaps:0/43(0%), Strand: Plus/Plus
+
+Query  1    CACCTGACTCCTGAGGAGAAGTCTGCCGTTACTGCCCTGTGGG  43
+            || ||||||||||||||||||||||||||||||||||||||||
+Sbjct  146  CAYCTGACTCCTGAGGAGAAGTCTGCCGTTACTGCCCTGTGGG  188
+
+
+
+
+>Homo sapiens isolate 20 hemoglobin beta chain (HBB) gene, partial cds
+Sequence ID: ON584449.1 Length: 599
+Range 1: 146 to 188
+
+Score:76.8 bits(41), Expect:9e-11, 
+Identities:42/43(98%),  Gaps:0/43(0%), Strand: Plus/Plus
+
+Query  1    CACCTGACTCCTGAGGAGAAGTCTGCCGTTACTGCCCTGTGGG  43
+            || ||||||||||||||||||||||||||||||||||||||||
+Sbjct  146  CAYCTGACTCCTGAGGAGAAGTCTGCCGTTACTGCCCTGTGGG  188
+
+
+
+
+>Homo sapiens isolate 18 hemoglobin beta chain (HBB) gene, partial cds
+Sequence ID: ON584447.1 Length: 599
+Range 1: 146 to 188
+
+Score:76.8 bits(41), Expect:9e-11, 
+Identities:42/43(98%),  Gaps:0/43(0%), Strand: Plus/Plus
+
+Query  1    CACCTGACTCCTGAGGAGAAGTCTGCCGTTACTGCCCTGTGGG  43
+            || ||||||||||||||||||||||||||||||||||||||||
+Sbjct  146  CAYCTGACTCCTGAGGAGAAGTCTGCCGTTACTGCCCTGTGGG  188
+
+
+
+
+>Homo sapiens isolate 17 hemoglobin beta chain (HBB) gene, partial cds
+Sequence ID: ON584446.1 Length: 599
+Range 1: 146 to 188
+
+Score:76.8 bits(41), Expect:9e-11, 
+Identities:42/43(98%),  Gaps:0/43(0%), Strand: Plus/Plus
+
+Query  1    CACCTGACTCCTGAGGAGAAGTCTGCCGTTACTGCCCTGTGGG  43
+            || ||||||||||||||||||||||||||||||||||||||||
+Sbjct  146  CAYCTGACTCCTGAGGAGAAGTCTGCCGTTACTGCCCTGTGGG  188
+
+
+
+
+>Homo sapiens isolate 16 hemoglobin beta chain (HBB) gene, partial cds
+Sequence ID: ON584445.1 Length: 599
+Range 1: 146 to 188
+
+Score:76.8 bits(41), Expect:9e-11, 
+Identities:42/43(98%),  Gaps:0/43(0%), Strand: Plus/Plus
+
+Query  1    CACCTGACTCCTGAGGAGAAGTCTGCCGTTACTGCCCTGTGGG  43
+            || ||||||||||||||||||||||||||||||||||||||||
+Sbjct  146  CAYCTGACTCCTGAGGAGAAGTCTGCCGTTACTGCCCTGTGGG  188
+
+
+
+
+>Homo sapiens isolate 15 hemoglobin beta chain (HBB) gene, partial cds
+Sequence ID: ON584444.1 Length: 599
+Range 1: 146 to 188
+
+Score:76.8 bits(41), Expect:9e-11, 
+Identities:42/43(98%),  Gaps:0/43(0%), Strand: Plus/Plus
+
+Query  1    CACCTGACTCCTGAGGAGAAGTCTGCCGTTACTGCCCTGTGGG  43
+            || ||||||||||||||||||||||||||||||||||||||||
+Sbjct  146  CAYCTGACTCCTGAGGAGAAGTCTGCCGTTACTGCCCTGTGGG  188
+
+
+
+
+>Homo sapiens isolate 14 hemoglobin beta chain (HBB) gene, partial cds
+Sequence ID: ON584443.1 Length: 599
+Range 1: 146 to 188
+
+Score:76.8 bits(41), Expect:9e-11, 
+Identities:42/43(98%),  Gaps:0/43(0%), Strand: Plus/Plus
+
+Query  1    CACCTGACTCCTGAGGAGAAGTCTGCCGTTACTGCCCTGTGGG  43
+            || ||||||||||||||||||||||||||||||||||||||||
+Sbjct  146  CAYCTGACTCCTGAGGAGAAGTCTGCCGTTACTGCCCTGTGGG  188
+
+
+
+
+>Homo sapiens isolate 12 hemoglobin beta chain (HBB) gene, partial cds
+Sequence ID: ON584441.1 Length: 599
+Range 1: 146 to 188
+
+Score:76.8 bits(41), Expect:9e-11, 
+Identities:42/43(98%),  Gaps:0/43(0%), Strand: Plus/Plus
+
+Query  1    CACCTGACTCCTGAGGAGAAGTCTGCCGTTACTGCCCTGTGGG  43
+            || ||||||||||||||||||||||||||||||||||||||||
+Sbjct  146  CAYCTGACTCCTGAGGAGAAGTCTGCCGTTACTGCCCTGTGGG  188
+
+
+
+
+>Homo sapiens isolate 9 hemoglobin beta chain (HBB) gene, partial cds
+Sequence ID: ON584438.1 Length: 599
+Range 1: 146 to 188
+
+Score:76.8 bits(41), Expect:9e-11, 
+Identities:42/43(98%),  Gaps:0/43(0%), Strand: Plus/Plus
+
+Query  1    CACCTGACTCCTGAGGAGAAGTCTGCCGTTACTGCCCTGTGGG  43
+            || ||||||||||||||||||||||||||||||||||||||||
+Sbjct  146  CAYCTGACTCCTGAGGAGAAGTCTGCCGTTACTGCCCTGTGGG  188
+
+
+
+
+>Homo sapiens isolate 6 nonfunctional hemoglobin beta chain genomic sequence
+Sequence ID: ON584435.1 Length: 598
+Range 1: 146 to 188
+
+Score:76.8 bits(41), Expect:9e-11, 
+Identities:42/43(98%),  Gaps:0/43(0%), Strand: Plus/Plus
+
+Query  1    CACCTGACTCCTGAGGAGAAGTCTGCCGTTACTGCCCTGTGGG  43
+            || ||||||||||||||||||||||||||||||||||||||||
+Sbjct  146  CAYCTGACTCCTGAGGAGAAGTCTGCCGTTACTGCCCTGTGGG  188
+
+
+
+
+>Homo sapiens isolate 5 nonfunctional hemoglobin beta chain genomic sequence
+Sequence ID: ON584434.1 Length: 598
+Range 1: 146 to 188
+
+Score:76.8 bits(41), Expect:9e-11, 
+Identities:42/43(98%),  Gaps:0/43(0%), Strand: Plus/Plus
+
+Query  1    CACCTGACTCCTGAGGAGAAGTCTGCCGTTACTGCCCTGTGGG  43
+            || ||||||||||||||||||||||||||||||||||||||||
+Sbjct  146  CAYCTGACTCCTGAGGAGAAGTCTGCCGTTACTGCCCTGTGGG  188
+
+
+
+
+>Homo sapiens isolate 2 nonfunctional hemoglobin beta chain genomic sequence
+Sequence ID: ON584431.1 Length: 598
+Range 1: 146 to 188
+
+Score:76.8 bits(41), Expect:9e-11, 
+Identities:42/43(98%),  Gaps:0/43(0%), Strand: Plus/Plus
+
+Query  1    CACCTGACTCCTGAGGAGAAGTCTGCCGTTACTGCCCTGTGGG  43
+            || ||||||||||||||||||||||||||||||||||||||||
+Sbjct  146  CAYCTGACTCCTGAGGAGAAGTCTGCCGTTACTGCCCTGTGGG  188
+
+
+
+
+>Homo sapiens isolate 1 hemoglobin beta chain (HBB) gene, partial cds
+Sequence ID: ON584430.1 Length: 599
+Range 1: 146 to 188
+
+Score:76.8 bits(41), Expect:9e-11, 
+Identities:42/43(98%),  Gaps:0/43(0%), Strand: Plus/Plus
+
+Query  1    CACCTGACTCCTGAGGAGAAGTCTGCCGTTACTGCCCTGTGGG  43
+            || ||||||||||||||||||||||||||||||||||||||||
+Sbjct  146  CAYCTGACTCCTGAGGAGAAGTCTGCCGTTACTGCCCTGTGGG  188
+
+
+
+
+		
+
+

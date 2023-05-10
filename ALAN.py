@@ -1,6 +1,8 @@
 import openai
+import time
 import re
 import os
+import glob
 from spinner import Spinner
 from logic import *
 from colorama import Fore
@@ -104,26 +106,31 @@ def extract_code(text):
 def BLAST(query):
     chrome_options = Options()
     chrome_options.add_experimental_option('detach', True)
+    prefs = {"download.default_directory" : "/Users/acedrakon/Desktop/Python/ALAN/ALAN/BLAST"}
+    chrome_options.add_experimental_option("prefs",prefs)
+
 
     driver = webdriver.Chrome(options=chrome_options)
     driver.get('https://blast.ncbi.nlm.nih.gov/Blast.cgi')
 
-    driver.find_element_by_id('homeBlastn').click()
-    driver.find_element_by_id('seq').send_keys(query)
-    driver.find_element_by_id('blastButton1').click()
+    driver.find_element(By.ID, 'homeBlastn').click()
+    driver.find_element(By.ID, 'seq').send_keys(query)
+    driver.find_element(By.ID, 'blastButton1').click()
 
     wait = WebDriverWait(driver, 30)
-    download = wait.until(expected_conditions.visibility_of_element_located((By.ID, 'btnDwnld')))
-    download.click()
-    driver.find_element_by_id('dwText').click()
+    try: 
+        download = wait.until(expected_conditions.visibility_of_element_located((By.ID, 'btnDwnld')))
+        download.click()
+        driver.find_element(By.ID, 'dwText').click()
+    except: 
+        print('You sequence gotta be wrong or sumn')
 
 def protein(seq):
     chrome_options = Options()
     chrome_options.add_experimental_option('detach', True)
-
     driver = webdriver.Chrome(options=chrome_options)
     driver.get('https://esmatlas.com/resources?action=fold')
-    element = driver.find_element_by_id('search-input')
+    element = driver.find_element(By.ID, 'search-input')
     element.send_keys(seq)
     element.send_keys(Keys.ENTER)
 
@@ -146,14 +153,22 @@ def extractAA__SEQ(prompt):
     conversation.append({'role': 'system', 'content': f'Look through this text and write back only the amino acid sequence and nothing else, if there is no amino acid sequence write \'ASKING\' only. The prompt: {prompt}'})
     conversation = ChatGPT_conversation(conversation)
     response = conversation[-1]['content'].strip()
+    print(response)
     if re.search('ASKING', response):
         e = input(Fore.BLUE + 'Write Amino Acid Sequence: ')
         return e
     else:  
         return response
 
-
-
+def parse_BLAST():
+    list_of_files = glob.glob('BLAST/*') # * means all if need specific format then *.csv
+    latest_file = max(list_of_files, key=os.path.getctime)
+    a = open(latest_file)
+    text = ''
+    for i in range(20):
+        x = a.readline()
+        text = text + x + '\n'
+    return text
 
 while True:
     prompt = input(Fore.RED + 'User:')
@@ -162,6 +177,13 @@ while True:
     if request == 'BLAST':
         seq = extractNT_SEQ(prompt)
         BLAST(seq)
+        with Spinner(Fore.GREEN + "Analyzing BLAST Results... "):
+            time.sleep(5)
+            result = parse_BLAST()
+            conversation.append({'role': 'user', 'content': 'Analyze this BLAST search and tell me the organism name and any other important infromation. Here is the BLAST result: ' + result})
+            conversation = ChatGPT_conversation(conversation)
+            response = '{0}: {1}\n'.format(conversation[-1]['role'].strip(), conversation[-1]['content'].strip())
+            print(Fore.GREEN + response)
     elif request == 'PROTEIN': 
         seq = extractAA__SEQ(prompt)
         protein(seq)

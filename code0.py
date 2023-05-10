@@ -1,28 +1,21 @@
 
 import matplotlib.pyplot as plt
 
-# Create a figure and axis
 fig, ax = plt.subplots()
 
-# Draw a circle for the face
-face = plt.Circle((0, 0), radius=1, edgecolor='black', facecolor='yellow')
-ax.add_patch(face)
+# draw a yellow circle for the face
+face_circle = plt.Circle((0, 0), radius=1, color='yellow')
+ax.add_artist(face_circle)
 
-# Draw the eyes
-left_eye = plt.Circle((-0.35, 0.35), radius=0.2, color='black')
-ax.add_patch(left_eye)
-right_eye = plt.Circle((0.35, 0.35), radius=0.2, color='black')
-ax.add_patch(right_eye)
+# draw black circles for the eyes
+left_eye = plt.Circle((-0.3, 0.4), radius=0.1, color='black')
+right_eye = plt.Circle((0.3, 0.4), radius=0.1, color='black')
+ax.add_artist(left_eye)
+ax.add_artist(right_eye)
 
-# Draw a semi-circle for the mouth
-mouth = plt.arc((0, -0.3), 1.2, 1.2, theta1=30, theta2=150, color='black')
-ax.add_patch(mouth)
+# draw a red smiley mouth using Arc
+smiling_mouth = plt.Arc((0, -0.3), width=0.6, height=0.3, theta1=0, theta2=180, color='red')
+ax.add_artist(smiling_mouth)
 
-# Set the x and y-axis limits and remove the ticks
-ax.set_xlim([-1.5, 1.5])
-ax.set_ylim([-1.5, 1.5])
-ax.set_xticks([])
-ax.set_yticks([])
-
-# Show the plot
+ax.set_aspect('equal')
 plt.show()
