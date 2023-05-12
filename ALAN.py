@@ -124,6 +124,8 @@ def BLAST(query):
         driver.find_element(By.ID, 'dwText').click()
     except: 
         print('You sequence gotta be wrong or sumn')
+    time.sleep(3)
+    driver.close()
 
 def protein(seq):
     chrome_options = Options()
@@ -136,16 +138,26 @@ def protein(seq):
 
 
 
-def extractNT_SEQ(prompt):
-    conversation = []
-    conversation.append({'role': 'system', 'content': f'Look through this text and write back only the nucleotide sequence and nothing else, if there is no nucleotide sequence write \'ASKING\' only. The prompt: {prompt}'})
-    conversation = ChatGPT_conversation(conversation)
-    response = conversation[-1]['content'].strip()
-    if re.search('ASKING', response):
-        e = input(Fore.BLUE + 'Write Nucleotide Sequence: ')
-        return e
-    else:  
-        return response
+# def extractNT_SEQ(prompt):
+#     conversation = []
+#     conversation.append({'role': 'system', 'content': f'Look through this text and write back only the nucleotide sequence and nothing else, if there is no nucleotide sequence write \'ASKING\' only. The prompt: {prompt}'})
+#     conversation = ChatGPT_conversation(conversation)
+#     response = conversation[-1]['content'].strip()
+#     if re.search('ASKING', response):
+#         e = input(Fore.BLUE + 'Write Nucleotide Sequence: ')
+#         return e
+#     else:  
+#         return response
+    
+
+def extractNT_seq(text, conversation):
+    match = re.search('[ACGT]+', text)
+    if match:
+        return match.group()
+    else:
+        ntseq = input(Fore.BLUE + 'Write Nucleotide Sequence: ')
+        conversation.append({'role': 'system', 'content': 'Remember this Nucleotide Sequence: ' + ntseq})
+        return ntseq, conversation
 
 
 def extractAA__SEQ(prompt):
@@ -159,6 +171,8 @@ def extractAA__SEQ(prompt):
         return e
     else:  
         return response
+    
+
 
 def parse_BLAST():
     list_of_files = glob.glob('BLAST/*') # * means all if need specific format then *.csv
@@ -175,12 +189,12 @@ while True:
     with Spinner(Fore.GREEN + "Thinking... "):
         request = check(prompt)
     if request == 'BLAST':
-        seq = extractNT_SEQ(prompt)
+        seq, conversation = extractNT_seq(prompt, conversation)
         BLAST(seq)
         with Spinner(Fore.GREEN + "Analyzing BLAST Results... "):
             time.sleep(5)
             result = parse_BLAST()
-            conversation.append({'role': 'user', 'content': 'Analyze this BLAST search and tell me the organism name and any other important infromation. Here is the BLAST result: ' + result})
+            conversation.append({'role': 'user', 'content': 'Analyze this BLAST search and tell me the organism name and the function of the gene. You may say any additionally info. Here is the BLAST result: ' + result})
             conversation = ChatGPT_conversation(conversation)
             response = '{0}: {1}\n'.format(conversation[-1]['role'].strip(), conversation[-1]['content'].strip())
             print(Fore.GREEN + response)
