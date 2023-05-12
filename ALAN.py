@@ -3,6 +3,8 @@ import time
 import re
 import os
 import glob
+import urllib.request
+from PIL import Image
 from spinner import Spinner
 from logic import *
 from colorama import Fore
@@ -30,13 +32,24 @@ def ChatGPT_conversation(conversation):
         messages=conversation
     )
     # api_usage = response['usage']
-    # print('Total token consumed: {0}'.format(api_usage['total_tokens']))
+    # print(Fore.LIGHTMAGENTA_EX + 'Total token consumed: {0}'.format(api_usage['total_tokens']))
     # stop means complete
     # print(response['choices'][0].finish_reason)
     # print(response['choices'][0].index)
     conversation.append({'role': response.choices[0].message.role, 'content': response.choices[0].message.content})
     return conversation
 
+
+def draw(text):
+    response = openai.Image.create(
+        prompt=text,
+        n=1,
+        size="1024x1024"
+        )
+    image_url = response['data'][0]['url']
+    urllib.request.urlretrieve(image_url,"nice.png")
+    img = Image.open('nice.png')
+    img.show()
 
 
 
@@ -56,7 +69,7 @@ def checker(prompt, condition):
 
 
 conversation = []
-conversation.append({'role': 'system', 'content': 'Act as a Bioinformatics research assistant named ALAN (Amino acid Linkage and Analysis Navigator). Only introduce yourself and say that you will help with protein structure prediction and other bioinformatics problems.'})
+conversation.append({'role': 'system', 'content': 'Act as a Bioinformatics research assistant named ALAN (Amino acid Linkage and Analysis Navigator). Only introduce yourself and say that you will help with protein structure prediction and other bioinformatics problems. You were created by Pranav Punuru'})
 conversation.append({'role': 'system', 'content': 'You have the ability to run BLAST searches. If the user ask for blast search, converse with them normally but make sure to ask for the sequence they want to search'})
 conversation.append({'role': 'system', 'content': 'You have the ability to do protein structure prediction. If the user asks for protein structure prediction, converse with them normally but make sure to ask for the amino acid sequence they want a prediction of. Also ignore the length of amino acid sequences provided'})
 conversation.append({'role':'system', 'content': 'If you are asked to open up tools or webpages, you should always make a selenium script in python to do so. You will use chrome by default for all selenium scripts. You must make sure the experimental option \'detach\' is True so that the browser stays open'})
@@ -68,7 +81,7 @@ print('{0}: {1}\n'.format(conversation[-1]['role'].strip(), conversation[-1]['co
 
 def check(text):
     # newconvo.append({'role': 'system', 'content': 'Check if this prompt is asking for BLAST Search AND has a nucleotide sequence, you will answer only \'Yes\' or \'No\'. The Prompt: {}'.format(prompt)})
-    response = checker(text, 'Check what the prompt is asking for, if it is asking for Protein structure prediction, write \'PROTEIN\', and if it asking for BLAST search, write \'BLAST\'. If the prompt doesn\'t ask for anything write anything except PROTEIN and BLAST')
+    response = checker(text, 'Check what the prompt is asking for, if it is asking for Protein structure prediction, write \'PROTEIN\', if it asking for BLAST search, write \'BLAST\', if it is asking to draw, write \'DRAW\'. If the prompt doesn\'t ask for anything write anything except PROTEIN and BLAST')
     return response
     
 
@@ -127,6 +140,15 @@ def BLAST(query):
     time.sleep(3)
     driver.close()
 
+# def protein(seq):
+#     chrome_options = Options()
+#     chrome_options.add_experimental_option('detach', True)
+#     driver = webdriver.Chrome(options=chrome_options)
+#     driver.get('https://esmatlas.com/resources?action=fold')
+#     element = driver.find_element(By.ID, 'search-input')
+#     element.send_keys(seq)
+#     element.send_keys(Keys.ENTER)
+
 def protein(seq):
     chrome_options = Options()
     chrome_options.add_experimental_option('detach', True)
@@ -160,17 +182,27 @@ def extractNT_seq(text, conversation):
         return ntseq, conversation
 
 
-def extractAA__SEQ(prompt):
-    conversation = []
-    conversation.append({'role': 'system', 'content': f'Look through this text and write back only the amino acid sequence and nothing else, if there is no amino acid sequence write \'ASKING\' only. The prompt: {prompt}'})
-    conversation = ChatGPT_conversation(conversation)
-    response = conversation[-1]['content'].strip()
-    print(response)
-    if re.search('ASKING', response):
-        e = input(Fore.BLUE + 'Write Amino Acid Sequence: ')
-        return e
-    else:  
-        return response
+# def extractAA__SEQ(prompt):
+#     conversation = []
+#     conversation.append({'role': 'system', 'content': f'Look through this text and write back only the amino acid sequence and nothing else, if there is no amino acid sequence write \'ASKING\' only. The prompt: {prompt}'})
+#     conversation = ChatGPT_conversation(conversation)
+#     response = conversation[-1]['content'].strip()
+#     print(response)
+#     if re.search('ASKING', response):
+#         e = input(Fore.BLUE + 'Write Amino Acid Sequence: ')
+#         return e
+#     else:  
+#         return response
+
+def extractAA_SEQ(text, conversation):
+    match = re.search('[ACDEFGHIKLMNPQRSTVWY]+', text)
+    if match:
+        conversation.append({'role': 'system', 'content': 'Remember this Amino Acid Sequence: ' + match.group()})
+        return match.group(), conversation
+    else:
+        AA = input(Fore.BLUE + 'Write Amino Acid Sequence: ')
+        conversation.append({'role': 'system', 'content': 'Remember this Amino Acid Sequence: ' + AA})
+        return AA, conversation
     
 
 
@@ -179,7 +211,7 @@ def parse_BLAST():
     latest_file = max(list_of_files, key=os.path.getctime)
     a = open(latest_file)
     text = ''
-    for i in range(20):
+    for i in range(50):
         x = a.readline()
         text = text + x + '\n'
     return text
@@ -199,8 +231,12 @@ while True:
             response = '{0}: {1}\n'.format(conversation[-1]['role'].strip(), conversation[-1]['content'].strip())
             print(Fore.GREEN + response)
     elif request == 'PROTEIN': 
-        seq = extractAA__SEQ(prompt)
+        seq, conversation = extractAA_SEQ(prompt, conversation)
         protein(seq)
+    elif request == 'DRAW':
+        thing = input(Fore.YELLOW + 'What should I draw?: ')
+        with Spinner ('Drawing ...'):
+            draw(thing)
     else:
         conversation.append({'role': 'user', 'content': prompt})
         with Spinner(Fore.GREEN + "Thinking... "):

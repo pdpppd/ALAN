@@ -1,12 +1,15 @@
-import re
+import openai
+import os
+from dotenv import load_dotenv
+load_dotenv()
 
-def extract_sequence(text):
-    match = re.search('[ACGT]+', text)
-    if match:
-        return match.group()
-    else:
-        return None
+openai.api_key = os.environ.get('OPENAI_API_KEY')
 
-text = "do blast with this nt sequence TAGCTGATCGATCGATCGATCGTAGCTAGCTAGCTA"
-sequence = extract_sequence(text)
-print(sequence)  # prints: TACGATCGATCGATCGATCGA
+response = openai.Image.create(
+  prompt="a white siamese cat",
+  n=1,
+  size="1024x1024"
+)
+image_url = response['data'][0]['url']
+
+print(image_url)

@@ -1,0 +1,1515 @@
+RID: 5WX2E3E9016	
+Job Title:Nucleotide Sequence 				
+Program: BLASTN 
+Query: None ID: lcl|Query_45109(dna) Length: 45
+Database: nt Nucleotide collection (nt)
+	
+Sequences producing significant alignments:
+                                                                  Scientific      Common                     Max    Total Query   E   Per.   Acc.                        
+Description                                                       Name            Name            Taxid      Score  Score cover Value Ident  Len        Accession        
+Escherichia coli strain RHB47-SO-C04 chromosome, complete genome  Escherichia ... NA              562        84.2   84.2  100%  7e-13 100.00 4989106    CP098931.1       
+Escherichia coli strain RHB47-C09 chromosome, complete genome     Escherichia ... NA              562        84.2   84.2  100%  7e-13 100.00 4702201    CP098940.1       
+Escherichia coli strain RHB45-SO-C07 chromosome, complete genome  Escherichia ... NA              562        84.2   84.2  100%  7e-13 100.00 4946061    CP099003.1       
+Escherichia coli strain RHB45-SO-C06 chromosome, complete genome  Escherichia ... NA              562        84.2   84.2  100%  7e-13 100.00 5011531    CP099005.1       
+Escherichia coli strain RHB45-SO-C03 chromosome, complete genome  Escherichia ... NA              562        84.2   84.2  100%  7e-13 100.00 4767626    CP099010.1       
+Escherichia coli strain RHB44-SO-C01 chromosome, complete genome  Escherichia ... NA              562        84.2   84.2  100%  7e-13 100.00 4700196    CP099038.1       
+Escherichia coli strain RHB44-C13 chromosome, complete genome     Escherichia ... NA              562        84.2   84.2  100%  7e-13 100.00 4819786    CP099051.1       
+Escherichia coli strain RHB41-E2-C05 chromosome, complete genome  Escherichia ... NA              562        84.2   84.2  100%  7e-13 100.00 4724310    CP099102.1       
+Escherichia coli strain RHB41-E2-C01 chromosome, complete genome  Escherichia ... NA              562        84.2   84.2  100%  7e-13 100.00 4751065    CP099106.1       
+Escherichia coli strain RHB35-SO-C06 chromosome, complete genome  Escherichia ... NA              562        84.2   84.2  100%  7e-13 100.00 5103346    CP099114.1       
+Escherichia coli strain RHB31-E3-C05 chromosome, complete genome  Escherichia ... NA              562        84.2   84.2  100%  7e-13 100.00 4906752    CP099129.1       
+Escherichia coli strain RHB31-E3-C03 chromosome, complete genome  Escherichia ... NA              562        84.2   84.2  100%  7e-13 100.00 4858302    CP099134.1       
+Escherichia coli strain RHB30-SO-C02 chromosome, complete genome  Escherichia ... NA              562        84.2   84.2  100%  7e-13 100.00 4737562    CP099136.1       
+Escherichia coli strain RHB25-E3-C05 chromosome, complete genome  Escherichia ... NA              562        84.2   84.2  100%  7e-13 100.00 4805665    CP099167.1       
+Escherichia coli strain RHB22-SO-C04 chromosome, complete genome  Escherichia ... NA              562        84.2   84.2  100%  7e-13 100.00 5062984    CP099179.1       
+Escherichia coli strain RHB21-E3-C02 chromosome, complete genome  Escherichia ... NA              562        84.2   84.2  100%  7e-13 100.00 5274828    CP099181.1       
+Escherichia coli strain RHB21-E1-C02 chromosome, complete genome  Escherichia ... NA              562        84.2   84.2  100%  7e-13 100.00 4916157    CP099188.1       
+Escherichia coli strain RHB20-E3-C07 chromosome, complete genome  Escherichia ... NA              562        84.2   84.2  100%  7e-13 100.00 4829220    CP099197.1       
+Escherichia coli strain RHB20-E3-C03 chromosome, complete genome  Escherichia ... NA              562        84.2   84.2  100%  7e-13 100.00 4877578    CP099203.1       
+Escherichia coli strain RHB08-SO-C05 chromosome, complete genome  Escherichia ... NA              562        84.2   84.2  100%  7e-13 100.00 4912187    CP099258.1       
+Escherichia coli strain RHB08-E3-C05 chromosome, complete genome  Escherichia ... NA              562        84.2   84.2  100%  7e-13 100.00 4852089    CP099267.1       
+Escherichia coli strain RHB08-E3-C03 chromosome, complete genome  Escherichia ... NA              562        84.2   84.2  100%  7e-13 100.00 4850689    CP099269.1       
+Escherichia coli strain RHB07-SO-C04 chromosome, complete genome  Escherichia ... NA              562        84.2   84.2  100%  7e-13 100.00 4761849    CP099270.1       
+Escherichia coli strain RHB05-SO-C07 chromosome, complete genome  Escherichia ... NA              562        84.2   84.2  100%  7e-13 100.00 4836691    CP099275.1       
+Escherichia coli strain RHB05-SO-C06 chromosome, complete genome  Escherichia ... NA              562        84.2   84.2  100%  7e-13 100.00 4815418    CP099279.1       
+Escherichia coli strain RHB05-SO-C01 chromosome, complete genome  Escherichia ... NA              562        84.2   84.2  100%  7e-13 100.00 4786118    CP099281.1       
+Escherichia coli strain RHB03-E1-C04 chromosome, complete genome  Escherichia ... NA              562        84.2   84.2  100%  7e-13 100.00 4438922    CP099287.1       
+Escherichia coli strain RHB02-E1-C06 chromosome, complete genome  Escherichia ... NA              562        84.2   84.2  100%  7e-13 100.00 4869391    CP099299.1       
+Escherichia coli strain RHB47-SO-C08 chromosome, complete genome  Escherichia ... NA              562        84.2   84.2  100%  7e-13 100.00 5310763    CP098927.1       
+Escherichia coli strain RHB47-C15 chromosome, complete genome     Escherichia ... NA              562        84.2   84.2  100%  7e-13 100.00 4695997    CP098933.1       
+Escherichia coli strain RHB47-C04 chromosome, complete genome     Escherichia ... NA              562        84.2   84.2  100%  7e-13 100.00 4674160    CP098955.1       
+Escherichia coli strain RHB46-C23 chromosome, complete genome     Escherichia ... NA              562        84.2   84.2  100%  7e-13 100.00 4788431    CP098965.1       
+Escherichia coli strain RHB46-C22 chromosome, complete genome     Escherichia ... NA              562        84.2   84.2  100%  7e-13 100.00 4658807    CP098969.1       
+Escherichia coli strain RHB46-C07 chromosome, complete genome     Escherichia ... NA              562        84.2   84.2  100%  7e-13 100.00 4954457    CP098991.1       
+Escherichia coli strain RHB45-C21 chromosome, complete genome     Escherichia ... NA              562        84.2   84.2  100%  7e-13 100.00 4599066    CP099020.1       
+Escherichia coli strain RHB44-C17 chromosome, complete genome     Escherichia ... NA              562        84.2   84.2  100%  7e-13 100.00 4819784    CP099041.1       
+Escherichia coli strain RHB44-C14 chromosome, complete genome     Escherichia ... NA              562        84.2   84.2  100%  7e-13 100.00 4758328    CP099046.1       
+Escherichia coli strain RHB43-SO-C05 chromosome, complete genome  Escherichia ... NA              562        84.2   84.2  100%  7e-13 100.00 4801308    CP099058.1       
+Escherichia coli strain RHB43-C19 chromosome, complete genome     Escherichia ... NA              562        84.2   84.2  100%  7e-13 100.00 4999395    CP099078.1       
+Escherichia coli strain RHB43-C16 chromosome, complete genome     Escherichia ... NA              562        84.2   84.2  100%  7e-13 100.00 4736453    CP099086.1       
+Escherichia coli strain RHB41-E2-C07 chromosome, complete genome  Escherichia ... NA              562        84.2   84.2  100%  7e-13 100.00 4808092    CP099098.1       
+Escherichia coli strain RHB40-SO-C05 chromosome, complete genome  Escherichia ... NA              562        84.2   84.2  100%  7e-13 100.00 5080392    CP099108.1       
+Escherichia coli strain RHB28-SO-C04 chromosome, complete genome  Escherichia ... NA              562        84.2   84.2  100%  7e-13 100.00 4480841    CP099142.1       
+Escherichia coli strain RHB28-SO-C01 chromosome, complete genome  Escherichia ... NA              562        84.2   84.2  100%  7e-13 100.00 4480836    CP099147.1       
+Escherichia coli strain RHB28-E3-C06 chromosome, complete genome  Escherichia ... NA              562        84.2   84.2  100%  7e-13 100.00 4705025    CP099152.1       
+Escherichia coli strain RHB25-E3-C03 chromosome, complete genome  Escherichia ... NA              562        84.2   84.2  100%  7e-13 100.00 4805703    CP099168.1       
+Escherichia coli strain RHB23-SO-C06 chromosome, complete genome  Escherichia ... NA              562        84.2   84.2  100%  7e-13 100.00 4793898    CP099169.1       
+Escherichia coli strain RHB23-SO-C02 plasmid unnamed1, complet... Escherichia ... NA              562        84.2   84.2  100%  7e-13 100.00 1310597    CP099174.1       
+Escherichia coli strain RHB22-SO-C05 chromosome, complete genome  Escherichia ... NA              562        84.2   84.2  100%  7e-13 100.00 5062984    CP099178.1       
+Escherichia coli strain RHB21-SO-C08 chromosome, complete genome  Escherichia ... NA              562        84.2   84.2  100%  7e-13 100.00 4776155    CP099180.1       
+Escherichia coli strain RHB21-E1-C08 chromosome, complete genome  Escherichia ... NA              562        84.2   84.2  100%  7e-13 100.00 4916157    CP099186.1       
+Escherichia coli strain RHB20-E3-C04 chromosome, complete genome  Escherichia ... NA              562        84.2   84.2  100%  7e-13 100.00 4877578    CP099201.1       
+Escherichia coli strain RHB13-SO-C08 chromosome, complete genome  Escherichia ... NA              562        84.2   84.2  100%  7e-13 100.00 4790290    CP099220.1       
+Escherichia coli strain RHB13-SO-C03 chromosome, complete genome  Escherichia ... NA              562        84.2   84.2  100%  7e-13 100.00 4859593    CP099225.1       
+Escherichia coli strain RHB13-SO-C02 chromosome, complete genome  Escherichia ... NA              562        84.2   84.2  100%  7e-13 100.00 4859595    CP099231.1       
+Escherichia coli strain RHB13-SO-C01 chromosome, complete genome  Escherichia ... NA              562        84.2   84.2  100%  7e-13 100.00 4860370    CP099237.1       
+Escherichia coli strain RHB08-E3-C08 chromosome, complete genome  Escherichia ... NA              562        84.2   84.2  100%  7e-13 100.00 4850689    CP099266.1       
+Escherichia coli strain RHB07-SO-C03 chromosome, complete genome  Escherichia ... NA              562        84.2   84.2  100%  7e-13 100.00 4797188    CP099274.1       
+Escherichia coli strain RHB05-SO-C03 chromosome, complete genome  Escherichia ... NA              562        84.2   84.2  100%  7e-13 100.00 4863621    CP099280.1       
+Escherichia coli strain RHB03-SO-C06 chromosome, complete genome  Escherichia ... NA              562        84.2   84.2  100%  7e-13 100.00 4765575    CP099283.1       
+Escherichia coli strain RHB03-SO-C05 chromosome, complete genome  Escherichia ... NA              562        84.2   84.2  100%  7e-13 100.00 4765577    CP099285.1       
+Escherichia coli strain EC0026B genome assembly, chromosome: 1    Escherichia ... NA              562        84.2   84.2  100%  7e-13 100.00 4741476    OX460329.1       
+Escherichia coli strain EC0026B genome assembly, chromosome: 1    Escherichia ... NA              562        84.2   84.2  100%  7e-13 100.00 4721705    OX460326.1       
+Escherichia coli strain EC0026B genome assembly, chromosome: 1    Escherichia ... NA              562        84.2   84.2  100%  7e-13 100.00 4722421    OX460323.1       
+Escherichia coli strain EC0880B genome assembly, chromosome: 1    Escherichia ... NA              562        84.2   84.2  100%  7e-13 100.00 4817712    OX460322.1       
+Escherichia coli strain EC0026B genome assembly, chromosome: 1    Escherichia ... NA              562        84.2   84.2  100%  7e-13 100.00 4725107    OX460316.1       
+Escherichia coli strain EC0880B genome assembly, chromosome: 1    Escherichia ... NA              562        84.2   84.2  100%  7e-13 100.00 4800993    OX460315.1       
+Escherichia coli strain EC0026B genome assembly, chromosome: 1    Escherichia ... NA              562        84.2   84.2  100%  7e-13 100.00 4730372    OX460336.1       
+Escherichia coli strain EC0880B genome assembly, chromosome: 1    Escherichia ... NA              562        84.2   84.2  100%  7e-13 100.00 4837144    OX460342.1       
+Escherichia coli strain EC0880B genome assembly, chromosome: 1    Escherichia ... NA              562        84.2   84.2  100%  7e-13 100.00 4817091    OX460335.1       
+Escherichia coli O155:H21 strain NWU_1 chromosome, complete...    Escherichia ... NA              3038394    84.2   84.2  100%  7e-13 100.00 4801879    CP121294.1       
+Escherichia coli strain E50 chromosome, complete genome           Escherichia ... NA              562        84.2   84.2  100%  7e-13 100.00 4926661    CP121199.1       
+Shigella flexneri 2a strain Sflex 21-42 chromosome, complete...   Shigella fle... NA              42897      84.2   84.2  100%  7e-13 100.00 4644259    CP121223.1       
+Escherichia coli strain E67 chromosome, complete genome           Escherichia ... NA              562        84.2   84.2  100%  7e-13 100.00 4926661    CP121155.1       
+Escherichia coli strain E47 chromosome, complete genome           Escherichia ... NA              562        84.2   84.2  100%  7e-13 100.00 5255987    CP121151.1       
+Escherichia coli strain E89 chromosome, complete genome           Escherichia ... NA              562        84.2   84.2  100%  7e-13 100.00 4776546    CP121157.1       
+Escherichia coli strain E57 chromosome, complete genome           Escherichia ... NA              562        84.2   84.2  100%  7e-13 100.00 4946171    CP121153.1       
+Escherichia coli strain E14 chromosome, complete genome           Escherichia ... NA              562        84.2   84.2  100%  7e-13 100.00 4988967    CP121149.1       
+Escherichia coli strain E20 chromosome, complete genome           Escherichia ... NA              562        84.2   84.2  100%  7e-13 100.00 4926646    CP121147.1       
+Escherichia coli strain ST3 chromosome, complete genome           Escherichia ... NA              562        84.2   84.2  100%  7e-13 100.00 4969640    CP121087.1       
+Escherichia coli strain BY63 chromosome, complete genome          Escherichia ... NA              562        84.2   84.2  100%  7e-13 100.00 4770033    CP090570.1       
+Escherichia coli strain BY68 chromosome, complete genome          Escherichia ... NA              562        84.2   84.2  100%  7e-13 100.00 4770033    CP090212.1       
+Escherichia coli strain NB4833 chromosome, complete genome        Escherichia ... NA              562        84.2   84.2  100%  7e-13 100.00 4898971    CP118601.1       
+Escherichia coli strain APEC E956 chromosome, complete genome     Escherichia ... NA              562        84.2   84.2  100%  7e-13 100.00 4884398    CP087294.1       
+Escherichia coli strain APEC 102026 chromosome, complete genome   Escherichia ... NA              562        84.2   84.2  100%  7e-13 100.00 5197709    CP087290.1       
+Escherichia coli strain B-766 chromosome, complete genome         Escherichia ... NA              562        84.2   84.2  100%  7e-13 100.00 5062632    CP118014.1       
+Escherichia coli strain PBS4 chromosome, complete genome          Escherichia ... NA              562        84.2   84.2  100%  7e-13 100.00 4879695    CP117714.1       
+Escherichia coli strain KW21 chromosome, complete genome          Escherichia ... NA              562        84.2   84.2  100%  7e-13 100.00 4849332    CP117672.1       
+Escherichia coli strain eco-241 chromosome, complete genome       Escherichia ... NA              562        84.2   84.2  100%  7e-13 100.00 5255408    CP053662.1       
+Escherichia coli strain MLI107 chromosome, complete genome        Escherichia ... NA              562        84.2   84.2  100%  7e-13 100.00 4793329    CP116987.1       
+Escherichia coli strain MLI104K1 chromosome, complete genome      Escherichia ... NA              562        84.2   84.2  100%  7e-13 100.00 4689650    CP116923.1       
+Escherichia coli strain MLI104K2 chromosome, complete genome      Escherichia ... NA              562        84.2   84.2  100%  7e-13 100.00 4930547    CP116925.1       
+Escherichia coli strain MLI105 chromosome, complete genome        Escherichia ... NA              562        84.2   84.2  100%  7e-13 100.00 4603416    CP116929.1       
+Escherichia coli strain MLI106K2 chromosome, complete genome      Escherichia ... NA              562        84.2   84.2  100%  7e-13 100.00 4981147    CP117049.1       
+Escherichia coli strain MLI106K4 chromosome, complete genome      Escherichia ... NA              562        84.2   84.2  100%  7e-13 100.00 4981147    CP117053.1       
+Escherichia coli strain MLI108K1 chromosome, complete genome      Escherichia ... NA              562        84.2   84.2  100%  7e-13 100.00 4733000    CP116994.1       
+Escherichia coli strain MLI108K2 chromosome, complete genome      Escherichia ... NA              562        84.2   84.2  100%  7e-13 100.00 4733636    CP117001.1       
+Escherichia coli strain MLI114 chromosome, complete genome        Escherichia ... NA              562        84.2   84.2  100%  7e-13 100.00 5270094    CP117013.1       
+Escherichia coli strain MLI121 chromosome, complete genome        Escherichia ... NA              562        84.2   84.2  100%  7e-13 100.00 5255484    CP117016.1       
+Escherichia coli strain CUVM53 chromosome, complete genome        Escherichia ... NA              562        84.2   84.2  100%  7e-13 100.00 4681953    CP116976.1       
+
+Alignments:
+
+>Escherichia coli strain RHB47-SO-C04 chromosome, complete genome
+Sequence ID: CP098931.1 Length: 4989106
+Range 1: 548068 to 548112
+
+Score:84.2 bits(45), Expect:7e-13, 
+Identities:45/45(100%),  Gaps:0/45(0%), Strand: Plus/Plus
+
+Query  1       AACGTTACCGTTATCGATCCGGTCGAAAAACTGCTGGCAGTGGGG  45
+               |||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  548068  AACGTTACCGTTATCGATCCGGTCGAAAAACTGCTGGCAGTGGGG  548112
+
+
+
+
+>Escherichia coli strain RHB47-C09 chromosome, complete genome
+Sequence ID: CP098940.1 Length: 4702201
+Range 1: 578845 to 578889
+
+Score:84.2 bits(45), Expect:7e-13, 
+Identities:45/45(100%),  Gaps:0/45(0%), Strand: Plus/Plus
+
+Query  1       AACGTTACCGTTATCGATCCGGTCGAAAAACTGCTGGCAGTGGGG  45
+               |||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  578845  AACGTTACCGTTATCGATCCGGTCGAAAAACTGCTGGCAGTGGGG  578889
+
+
+
+
+>Escherichia coli strain RHB45-SO-C07 chromosome, complete genome
+Sequence ID: CP099003.1 Length: 4946061
+Range 1: 4089114 to 4089158
+
+Score:84.2 bits(45), Expect:7e-13, 
+Identities:45/45(100%),  Gaps:0/45(0%), Strand: Plus/Minus
+
+Query  1        AACGTTACCGTTATCGATCCGGTCGAAAAACTGCTGGCAGTGGGG  45
+                |||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  4089158  AACGTTACCGTTATCGATCCGGTCGAAAAACTGCTGGCAGTGGGG  4089114
+
+
+
+
+>Escherichia coli strain RHB45-SO-C06 chromosome, complete genome
+Sequence ID: CP099005.1 Length: 5011531
+Range 1: 4269372 to 4269416
+
+Score:84.2 bits(45), Expect:7e-13, 
+Identities:45/45(100%),  Gaps:0/45(0%), Strand: Plus/Minus
+
+Query  1        AACGTTACCGTTATCGATCCGGTCGAAAAACTGCTGGCAGTGGGG  45
+                |||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  4269416  AACGTTACCGTTATCGATCCGGTCGAAAAACTGCTGGCAGTGGGG  4269372
+
+
+
+
+>Escherichia coli strain RHB45-SO-C03 chromosome, complete genome
+Sequence ID: CP099010.1 Length: 4767626
+Range 1: 3992408 to 3992452
+
+Score:84.2 bits(45), Expect:7e-13, 
+Identities:45/45(100%),  Gaps:0/45(0%), Strand: Plus/Minus
+
+Query  1        AACGTTACCGTTATCGATCCGGTCGAAAAACTGCTGGCAGTGGGG  45
+                |||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  3992452  AACGTTACCGTTATCGATCCGGTCGAAAAACTGCTGGCAGTGGGG  3992408
+
+
+
+
+>Escherichia coli strain RHB44-SO-C01 chromosome, complete genome
+Sequence ID: CP099038.1 Length: 4700196
+Range 1: 3956033 to 3956077
+
+Score:84.2 bits(45), Expect:7e-13, 
+Identities:45/45(100%),  Gaps:0/45(0%), Strand: Plus/Minus
+
+Query  1        AACGTTACCGTTATCGATCCGGTCGAAAAACTGCTGGCAGTGGGG  45
+                |||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  3956077  AACGTTACCGTTATCGATCCGGTCGAAAAACTGCTGGCAGTGGGG  3956033
+
+
+
+
+>Escherichia coli strain RHB44-C13 chromosome, complete genome
+Sequence ID: CP099051.1 Length: 4819786
+Range 1: 2235855 to 2235899
+
+Score:84.2 bits(45), Expect:7e-13, 
+Identities:45/45(100%),  Gaps:0/45(0%), Strand: Plus/Minus
+
+Query  1        AACGTTACCGTTATCGATCCGGTCGAAAAACTGCTGGCAGTGGGG  45
+                |||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  2235899  AACGTTACCGTTATCGATCCGGTCGAAAAACTGCTGGCAGTGGGG  2235855
+
+
+
+
+>Escherichia coli strain RHB41-E2-C05 chromosome, complete genome
+Sequence ID: CP099102.1 Length: 4724310
+Range 1: 3937447 to 3937491
+
+Score:84.2 bits(45), Expect:7e-13, 
+Identities:45/45(100%),  Gaps:0/45(0%), Strand: Plus/Minus
+
+Query  1        AACGTTACCGTTATCGATCCGGTCGAAAAACTGCTGGCAGTGGGG  45
+                |||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  3937491  AACGTTACCGTTATCGATCCGGTCGAAAAACTGCTGGCAGTGGGG  3937447
+
+
+
+
+>Escherichia coli strain RHB41-E2-C01 chromosome, complete genome
+Sequence ID: CP099106.1 Length: 4751065
+Range 1: 3957501 to 3957545
+
+Score:84.2 bits(45), Expect:7e-13, 
+Identities:45/45(100%),  Gaps:0/45(0%), Strand: Plus/Minus
+
+Query  1        AACGTTACCGTTATCGATCCGGTCGAAAAACTGCTGGCAGTGGGG  45
+                |||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  3957545  AACGTTACCGTTATCGATCCGGTCGAAAAACTGCTGGCAGTGGGG  3957501
+
+
+
+
+>Escherichia coli strain RHB35-SO-C06 chromosome, complete genome
+Sequence ID: CP099114.1 Length: 5103346
+Range 1: 4231435 to 4231479
+
+Score:84.2 bits(45), Expect:7e-13, 
+Identities:45/45(100%),  Gaps:0/45(0%), Strand: Plus/Minus
+
+Query  1        AACGTTACCGTTATCGATCCGGTCGAAAAACTGCTGGCAGTGGGG  45
+                |||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  4231479  AACGTTACCGTTATCGATCCGGTCGAAAAACTGCTGGCAGTGGGG  4231435
+
+
+
+
+>Escherichia coli strain RHB31-E3-C05 chromosome, complete genome
+Sequence ID: CP099129.1 Length: 4906752
+Range 1: 2337724 to 2337768
+
+Score:84.2 bits(45), Expect:7e-13, 
+Identities:45/45(100%),  Gaps:0/45(0%), Strand: Plus/Minus
+
+Query  1        AACGTTACCGTTATCGATCCGGTCGAAAAACTGCTGGCAGTGGGG  45
+                |||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  2337768  AACGTTACCGTTATCGATCCGGTCGAAAAACTGCTGGCAGTGGGG  2337724
+
+
+
+
+>Escherichia coli strain RHB31-E3-C03 chromosome, complete genome
+Sequence ID: CP099134.1 Length: 4858302
+Range 1: 4117619 to 4117663
+
+Score:84.2 bits(45), Expect:7e-13, 
+Identities:45/45(100%),  Gaps:0/45(0%), Strand: Plus/Minus
+
+Query  1        AACGTTACCGTTATCGATCCGGTCGAAAAACTGCTGGCAGTGGGG  45
+                |||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  4117663  AACGTTACCGTTATCGATCCGGTCGAAAAACTGCTGGCAGTGGGG  4117619
+
+
+
+
+>Escherichia coli strain RHB30-SO-C02 chromosome, complete genome
+Sequence ID: CP099136.1 Length: 4737562
+Range 1: 2228241 to 2228285
+
+Score:84.2 bits(45), Expect:7e-13, 
+Identities:45/45(100%),  Gaps:0/45(0%), Strand: Plus/Minus
+
+Query  1        AACGTTACCGTTATCGATCCGGTCGAAAAACTGCTGGCAGTGGGG  45
+                |||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  2228285  AACGTTACCGTTATCGATCCGGTCGAAAAACTGCTGGCAGTGGGG  2228241
+
+
+
+
+>Escherichia coli strain RHB25-E3-C05 chromosome, complete genome
+Sequence ID: CP099167.1 Length: 4805665
+Range 1: 2292526 to 2292570
+
+Score:84.2 bits(45), Expect:7e-13, 
+Identities:45/45(100%),  Gaps:0/45(0%), Strand: Plus/Minus
+
+Query  1        AACGTTACCGTTATCGATCCGGTCGAAAAACTGCTGGCAGTGGGG  45
+                |||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  2292570  AACGTTACCGTTATCGATCCGGTCGAAAAACTGCTGGCAGTGGGG  2292526
+
+
+
+
+>Escherichia coli strain RHB22-SO-C04 chromosome, complete genome
+Sequence ID: CP099179.1 Length: 5062984
+Range 1: 4097117 to 4097161
+
+Score:84.2 bits(45), Expect:7e-13, 
+Identities:45/45(100%),  Gaps:0/45(0%), Strand: Plus/Plus
+
+Query  1        AACGTTACCGTTATCGATCCGGTCGAAAAACTGCTGGCAGTGGGG  45
+                |||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  4097117  AACGTTACCGTTATCGATCCGGTCGAAAAACTGCTGGCAGTGGGG  4097161
+
+
+
+
+>Escherichia coli strain RHB21-E3-C02 chromosome, complete genome
+Sequence ID: CP099181.1 Length: 5274828
+Range 1: 4453499 to 4453543
+
+Score:84.2 bits(45), Expect:7e-13, 
+Identities:45/45(100%),  Gaps:0/45(0%), Strand: Plus/Minus
+
+Query  1        AACGTTACCGTTATCGATCCGGTCGAAAAACTGCTGGCAGTGGGG  45
+                |||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  4453543  AACGTTACCGTTATCGATCCGGTCGAAAAACTGCTGGCAGTGGGG  4453499
+
+
+
+
+>Escherichia coli strain RHB21-E1-C02 chromosome, complete genome
+Sequence ID: CP099188.1 Length: 4916157
+Range 1: 4159957 to 4160001
+
+Score:84.2 bits(45), Expect:7e-13, 
+Identities:45/45(100%),  Gaps:0/45(0%), Strand: Plus/Minus
+
+Query  1        AACGTTACCGTTATCGATCCGGTCGAAAAACTGCTGGCAGTGGGG  45
+                |||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  4160001  AACGTTACCGTTATCGATCCGGTCGAAAAACTGCTGGCAGTGGGG  4159957
+
+
+
+
+>Escherichia coli strain RHB20-E3-C07 chromosome, complete genome
+Sequence ID: CP099197.1 Length: 4829220
+Range 1: 2372397 to 2372441
+
+Score:84.2 bits(45), Expect:7e-13, 
+Identities:45/45(100%),  Gaps:0/45(0%), Strand: Plus/Plus
+
+Query  1        AACGTTACCGTTATCGATCCGGTCGAAAAACTGCTGGCAGTGGGG  45
+                |||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  2372397  AACGTTACCGTTATCGATCCGGTCGAAAAACTGCTGGCAGTGGGG  2372441
+
+
+
+
+>Escherichia coli strain RHB20-E3-C03 chromosome, complete genome
+Sequence ID: CP099203.1 Length: 4877578
+Range 1: 2408401 to 2408445
+
+Score:84.2 bits(45), Expect:7e-13, 
+Identities:45/45(100%),  Gaps:0/45(0%), Strand: Plus/Minus
+
+Query  1        AACGTTACCGTTATCGATCCGGTCGAAAAACTGCTGGCAGTGGGG  45
+                |||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  2408445  AACGTTACCGTTATCGATCCGGTCGAAAAACTGCTGGCAGTGGGG  2408401
+
+
+
+
+>Escherichia coli strain RHB08-SO-C05 chromosome, complete genome
+Sequence ID: CP099258.1 Length: 4912187
+Range 1: 4168424 to 4168468
+
+Score:84.2 bits(45), Expect:7e-13, 
+Identities:45/45(100%),  Gaps:0/45(0%), Strand: Plus/Minus
+
+Query  1        AACGTTACCGTTATCGATCCGGTCGAAAAACTGCTGGCAGTGGGG  45
+                |||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  4168468  AACGTTACCGTTATCGATCCGGTCGAAAAACTGCTGGCAGTGGGG  4168424
+
+
+
+
+>Escherichia coli strain RHB08-E3-C05 chromosome, complete genome
+Sequence ID: CP099267.1 Length: 4852089
+Range 1: 4016789 to 4016833
+
+Score:84.2 bits(45), Expect:7e-13, 
+Identities:45/45(100%),  Gaps:0/45(0%), Strand: Plus/Minus
+
+Query  1        AACGTTACCGTTATCGATCCGGTCGAAAAACTGCTGGCAGTGGGG  45
+                |||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  4016833  AACGTTACCGTTATCGATCCGGTCGAAAAACTGCTGGCAGTGGGG  4016789
+
+
+
+
+>Escherichia coli strain RHB08-E3-C03 chromosome, complete genome
+Sequence ID: CP099269.1 Length: 4850689
+Range 1: 2296142 to 2296186
+
+Score:84.2 bits(45), Expect:7e-13, 
+Identities:45/45(100%),  Gaps:0/45(0%), Strand: Plus/Minus
+
+Query  1        AACGTTACCGTTATCGATCCGGTCGAAAAACTGCTGGCAGTGGGG  45
+                |||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  2296186  AACGTTACCGTTATCGATCCGGTCGAAAAACTGCTGGCAGTGGGG  2296142
+
+
+
+
+>Escherichia coli strain RHB07-SO-C04 chromosome, complete genome
+Sequence ID: CP099270.1 Length: 4761849
+Range 1: 4012683 to 4012727
+
+Score:84.2 bits(45), Expect:7e-13, 
+Identities:45/45(100%),  Gaps:0/45(0%), Strand: Plus/Minus
+
+Query  1        AACGTTACCGTTATCGATCCGGTCGAAAAACTGCTGGCAGTGGGG  45
+                |||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  4012727  AACGTTACCGTTATCGATCCGGTCGAAAAACTGCTGGCAGTGGGG  4012683
+
+
+
+
+>Escherichia coli strain RHB05-SO-C07 chromosome, complete genome
+Sequence ID: CP099275.1 Length: 4836691
+Range 1: 2281848 to 2281892
+
+Score:84.2 bits(45), Expect:7e-13, 
+Identities:45/45(100%),  Gaps:0/45(0%), Strand: Plus/Minus
+
+Query  1        AACGTTACCGTTATCGATCCGGTCGAAAAACTGCTGGCAGTGGGG  45
+                |||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  2281892  AACGTTACCGTTATCGATCCGGTCGAAAAACTGCTGGCAGTGGGG  2281848
+
+
+
+
+>Escherichia coli strain RHB05-SO-C06 chromosome, complete genome
+Sequence ID: CP099279.1 Length: 4815418
+Range 1: 2294633 to 2294677
+
+Score:84.2 bits(45), Expect:7e-13, 
+Identities:45/45(100%),  Gaps:0/45(0%), Strand: Plus/Minus
+
+Query  1        AACGTTACCGTTATCGATCCGGTCGAAAAACTGCTGGCAGTGGGG  45
+                |||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  2294677  AACGTTACCGTTATCGATCCGGTCGAAAAACTGCTGGCAGTGGGG  2294633
+
+
+
+
+>Escherichia coli strain RHB05-SO-C01 chromosome, complete genome
+Sequence ID: CP099281.1 Length: 4786118
+Range 1: 2261686 to 2261730
+
+Score:84.2 bits(45), Expect:7e-13, 
+Identities:45/45(100%),  Gaps:0/45(0%), Strand: Plus/Minus
+
+Query  1        AACGTTACCGTTATCGATCCGGTCGAAAAACTGCTGGCAGTGGGG  45
+                |||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  2261730  AACGTTACCGTTATCGATCCGGTCGAAAAACTGCTGGCAGTGGGG  2261686
+
+
+
+
+>Escherichia coli strain RHB03-E1-C04 chromosome, complete genome
+Sequence ID: CP099287.1 Length: 4438922
+Range 1: 3710654 to 3710698
+
+Score:84.2 bits(45), Expect:7e-13, 
+Identities:45/45(100%),  Gaps:0/45(0%), Strand: Plus/Minus
+
+Query  1        AACGTTACCGTTATCGATCCGGTCGAAAAACTGCTGGCAGTGGGG  45
+                |||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  3710698  AACGTTACCGTTATCGATCCGGTCGAAAAACTGCTGGCAGTGGGG  3710654
+
+
+
+
+>Escherichia coli strain RHB02-E1-C06 chromosome, complete genome
+Sequence ID: CP099299.1 Length: 4869391
+Range 1: 549447 to 549491
+
+Score:84.2 bits(45), Expect:7e-13, 
+Identities:45/45(100%),  Gaps:0/45(0%), Strand: Plus/Plus
+
+Query  1       AACGTTACCGTTATCGATCCGGTCGAAAAACTGCTGGCAGTGGGG  45
+               |||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  549447  AACGTTACCGTTATCGATCCGGTCGAAAAACTGCTGGCAGTGGGG  549491
+
+
+
+
+>Escherichia coli strain RHB47-SO-C08 chromosome, complete genome
+Sequence ID: CP098927.1 Length: 5310763
+Range 1: 687299 to 687343
+
+Score:84.2 bits(45), Expect:7e-13, 
+Identities:45/45(100%),  Gaps:0/45(0%), Strand: Plus/Plus
+
+Query  1       AACGTTACCGTTATCGATCCGGTCGAAAAACTGCTGGCAGTGGGG  45
+               |||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  687299  AACGTTACCGTTATCGATCCGGTCGAAAAACTGCTGGCAGTGGGG  687343
+
+
+
+
+>Escherichia coli strain RHB47-C15 chromosome, complete genome
+Sequence ID: CP098933.1 Length: 4695997
+Range 1: 578845 to 578889
+
+Score:84.2 bits(45), Expect:7e-13, 
+Identities:45/45(100%),  Gaps:0/45(0%), Strand: Plus/Plus
+
+Query  1       AACGTTACCGTTATCGATCCGGTCGAAAAACTGCTGGCAGTGGGG  45
+               |||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  578845  AACGTTACCGTTATCGATCCGGTCGAAAAACTGCTGGCAGTGGGG  578889
+
+
+
+
+>Escherichia coli strain RHB47-C04 chromosome, complete genome
+Sequence ID: CP098955.1 Length: 4674160
+Range 1: 579557 to 579601
+
+Score:84.2 bits(45), Expect:7e-13, 
+Identities:45/45(100%),  Gaps:0/45(0%), Strand: Plus/Plus
+
+Query  1       AACGTTACCGTTATCGATCCGGTCGAAAAACTGCTGGCAGTGGGG  45
+               |||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  579557  AACGTTACCGTTATCGATCCGGTCGAAAAACTGCTGGCAGTGGGG  579601
+
+
+
+
+>Escherichia coli strain RHB46-C23 chromosome, complete genome
+Sequence ID: CP098965.1 Length: 4788431
+Range 1: 4044060 to 4044104
+
+Score:84.2 bits(45), Expect:7e-13, 
+Identities:45/45(100%),  Gaps:0/45(0%), Strand: Plus/Minus
+
+Query  1        AACGTTACCGTTATCGATCCGGTCGAAAAACTGCTGGCAGTGGGG  45
+                |||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  4044104  AACGTTACCGTTATCGATCCGGTCGAAAAACTGCTGGCAGTGGGG  4044060
+
+
+
+
+>Escherichia coli strain RHB46-C22 chromosome, complete genome
+Sequence ID: CP098969.1 Length: 4658807
+Range 1: 3932709 to 3932753
+
+Score:84.2 bits(45), Expect:7e-13, 
+Identities:45/45(100%),  Gaps:0/45(0%), Strand: Plus/Minus
+
+Query  1        AACGTTACCGTTATCGATCCGGTCGAAAAACTGCTGGCAGTGGGG  45
+                |||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  3932753  AACGTTACCGTTATCGATCCGGTCGAAAAACTGCTGGCAGTGGGG  3932709
+
+
+
+
+>Escherichia coli strain RHB46-C07 chromosome, complete genome
+Sequence ID: CP098991.1 Length: 4954457
+Range 1: 4213125 to 4213169
+
+Score:84.2 bits(45), Expect:7e-13, 
+Identities:45/45(100%),  Gaps:0/45(0%), Strand: Plus/Minus
+
+Query  1        AACGTTACCGTTATCGATCCGGTCGAAAAACTGCTGGCAGTGGGG  45
+                |||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  4213169  AACGTTACCGTTATCGATCCGGTCGAAAAACTGCTGGCAGTGGGG  4213125
+
+
+
+
+>Escherichia coli strain RHB45-C21 chromosome, complete genome
+Sequence ID: CP099020.1 Length: 4599066
+Range 1: 3905536 to 3905580
+
+Score:84.2 bits(45), Expect:7e-13, 
+Identities:45/45(100%),  Gaps:0/45(0%), Strand: Plus/Minus
+
+Query  1        AACGTTACCGTTATCGATCCGGTCGAAAAACTGCTGGCAGTGGGG  45
+                |||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  3905580  AACGTTACCGTTATCGATCCGGTCGAAAAACTGCTGGCAGTGGGG  3905536
+
+
+
+
+>Escherichia coli strain RHB44-C17 chromosome, complete genome
+Sequence ID: CP099041.1 Length: 4819784
+Range 1: 2235855 to 2235899
+
+Score:84.2 bits(45), Expect:7e-13, 
+Identities:45/45(100%),  Gaps:0/45(0%), Strand: Plus/Minus
+
+Query  1        AACGTTACCGTTATCGATCCGGTCGAAAAACTGCTGGCAGTGGGG  45
+                |||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  2235899  AACGTTACCGTTATCGATCCGGTCGAAAAACTGCTGGCAGTGGGG  2235855
+
+
+
+
+>Escherichia coli strain RHB44-C14 chromosome, complete genome
+Sequence ID: CP099046.1 Length: 4758328
+Range 1: 4015172 to 4015216
+
+Score:84.2 bits(45), Expect:7e-13, 
+Identities:45/45(100%),  Gaps:0/45(0%), Strand: Plus/Minus
+
+Query  1        AACGTTACCGTTATCGATCCGGTCGAAAAACTGCTGGCAGTGGGG  45
+                |||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  4015216  AACGTTACCGTTATCGATCCGGTCGAAAAACTGCTGGCAGTGGGG  4015172
+
+
+
+
+>Escherichia coli strain RHB43-SO-C05 chromosome, complete genome
+Sequence ID: CP099058.1 Length: 4801308
+Range 1: 2323762 to 2323806
+
+Score:84.2 bits(45), Expect:7e-13, 
+Identities:45/45(100%),  Gaps:0/45(0%), Strand: Plus/Minus
+
+Query  1        AACGTTACCGTTATCGATCCGGTCGAAAAACTGCTGGCAGTGGGG  45
+                |||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  2323806  AACGTTACCGTTATCGATCCGGTCGAAAAACTGCTGGCAGTGGGG  2323762
+
+
+
+
+>Escherichia coli strain RHB43-C19 chromosome, complete genome
+Sequence ID: CP099078.1 Length: 4999395
+Range 1: 4244388 to 4244432
+
+Score:84.2 bits(45), Expect:7e-13, 
+Identities:45/45(100%),  Gaps:0/45(0%), Strand: Plus/Minus
+
+Query  1        AACGTTACCGTTATCGATCCGGTCGAAAAACTGCTGGCAGTGGGG  45
+                |||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  4244432  AACGTTACCGTTATCGATCCGGTCGAAAAACTGCTGGCAGTGGGG  4244388
+
+
+
+
+>Escherichia coli strain RHB43-C16 chromosome, complete genome
+Sequence ID: CP099086.1 Length: 4736453
+Range 1: 599133 to 599177
+
+Score:84.2 bits(45), Expect:7e-13, 
+Identities:45/45(100%),  Gaps:0/45(0%), Strand: Plus/Plus
+
+Query  1       AACGTTACCGTTATCGATCCGGTCGAAAAACTGCTGGCAGTGGGG  45
+               |||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  599133  AACGTTACCGTTATCGATCCGGTCGAAAAACTGCTGGCAGTGGGG  599177
+
+
+
+
+>Escherichia coli strain RHB41-E2-C07 chromosome, complete genome
+Sequence ID: CP099098.1 Length: 4808092
+Range 1: 4052381 to 4052425
+
+Score:84.2 bits(45), Expect:7e-13, 
+Identities:45/45(100%),  Gaps:0/45(0%), Strand: Plus/Minus
+
+Query  1        AACGTTACCGTTATCGATCCGGTCGAAAAACTGCTGGCAGTGGGG  45
+                |||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  4052425  AACGTTACCGTTATCGATCCGGTCGAAAAACTGCTGGCAGTGGGG  4052381
+
+
+
+
+>Escherichia coli strain RHB40-SO-C05 chromosome, complete genome
+Sequence ID: CP099108.1 Length: 5080392
+Range 1: 2394292 to 2394336
+
+Score:84.2 bits(45), Expect:7e-13, 
+Identities:45/45(100%),  Gaps:0/45(0%), Strand: Plus/Minus
+
+Query  1        AACGTTACCGTTATCGATCCGGTCGAAAAACTGCTGGCAGTGGGG  45
+                |||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  2394336  AACGTTACCGTTATCGATCCGGTCGAAAAACTGCTGGCAGTGGGG  2394292
+
+
+
+
+>Escherichia coli strain RHB28-SO-C04 chromosome, complete genome
+Sequence ID: CP099142.1 Length: 4480841
+Range 1: 3752574 to 3752618
+
+Score:84.2 bits(45), Expect:7e-13, 
+Identities:45/45(100%),  Gaps:0/45(0%), Strand: Plus/Minus
+
+Query  1        AACGTTACCGTTATCGATCCGGTCGAAAAACTGCTGGCAGTGGGG  45
+                |||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  3752618  AACGTTACCGTTATCGATCCGGTCGAAAAACTGCTGGCAGTGGGG  3752574
+
+
+
+
+>Escherichia coli strain RHB28-SO-C01 chromosome, complete genome
+Sequence ID: CP099147.1 Length: 4480836
+Range 1: 3752568 to 3752612
+
+Score:84.2 bits(45), Expect:7e-13, 
+Identities:45/45(100%),  Gaps:0/45(0%), Strand: Plus/Minus
+
+Query  1        AACGTTACCGTTATCGATCCGGTCGAAAAACTGCTGGCAGTGGGG  45
+                |||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  3752612  AACGTTACCGTTATCGATCCGGTCGAAAAACTGCTGGCAGTGGGG  3752568
+
+
+
+
+>Escherichia coli strain RHB28-E3-C06 chromosome, complete genome
+Sequence ID: CP099152.1 Length: 4705025
+Range 1: 3952699 to 3952743
+
+Score:84.2 bits(45), Expect:7e-13, 
+Identities:45/45(100%),  Gaps:0/45(0%), Strand: Plus/Plus
+
+Query  1        AACGTTACCGTTATCGATCCGGTCGAAAAACTGCTGGCAGTGGGG  45
+                |||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  3952699  AACGTTACCGTTATCGATCCGGTCGAAAAACTGCTGGCAGTGGGG  3952743
+
+
+
+
+>Escherichia coli strain RHB25-E3-C03 chromosome, complete genome
+Sequence ID: CP099168.1 Length: 4805703
+Range 1: 2292526 to 2292570
+
+Score:84.2 bits(45), Expect:7e-13, 
+Identities:45/45(100%),  Gaps:0/45(0%), Strand: Plus/Minus
+
+Query  1        AACGTTACCGTTATCGATCCGGTCGAAAAACTGCTGGCAGTGGGG  45
+                |||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  2292570  AACGTTACCGTTATCGATCCGGTCGAAAAACTGCTGGCAGTGGGG  2292526
+
+
+
+
+>Escherichia coli strain RHB23-SO-C06 chromosome, complete genome
+Sequence ID: CP099169.1 Length: 4793898
+Range 1: 2250924 to 2250968
+
+Score:84.2 bits(45), Expect:7e-13, 
+Identities:45/45(100%),  Gaps:0/45(0%), Strand: Plus/Minus
+
+Query  1        AACGTTACCGTTATCGATCCGGTCGAAAAACTGCTGGCAGTGGGG  45
+                |||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  2250968  AACGTTACCGTTATCGATCCGGTCGAAAAACTGCTGGCAGTGGGG  2250924
+
+
+
+
+>Escherichia coli strain RHB23-SO-C02 plasmid unnamed1, complete sequence
+Sequence ID: CP099174.1 Length: 1310597
+Range 1: 756818 to 756862
+
+Score:84.2 bits(45), Expect:7e-13, 
+Identities:45/45(100%),  Gaps:0/45(0%), Strand: Plus/Minus
+
+Query  1       AACGTTACCGTTATCGATCCGGTCGAAAAACTGCTGGCAGTGGGG  45
+               |||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  756862  AACGTTACCGTTATCGATCCGGTCGAAAAACTGCTGGCAGTGGGG  756818
+
+
+
+
+>Escherichia coli strain RHB22-SO-C05 chromosome, complete genome
+Sequence ID: CP099178.1 Length: 5062984
+Range 1: 4097117 to 4097161
+
+Score:84.2 bits(45), Expect:7e-13, 
+Identities:45/45(100%),  Gaps:0/45(0%), Strand: Plus/Plus
+
+Query  1        AACGTTACCGTTATCGATCCGGTCGAAAAACTGCTGGCAGTGGGG  45
+                |||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  4097117  AACGTTACCGTTATCGATCCGGTCGAAAAACTGCTGGCAGTGGGG  4097161
+
+
+
+
+>Escherichia coli strain RHB21-SO-C08 chromosome, complete genome
+Sequence ID: CP099180.1 Length: 4776155
+Range 1: 3950636 to 3950680
+
+Score:84.2 bits(45), Expect:7e-13, 
+Identities:45/45(100%),  Gaps:0/45(0%), Strand: Plus/Minus
+
+Query  1        AACGTTACCGTTATCGATCCGGTCGAAAAACTGCTGGCAGTGGGG  45
+                |||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  3950680  AACGTTACCGTTATCGATCCGGTCGAAAAACTGCTGGCAGTGGGG  3950636
+
+
+
+
+>Escherichia coli strain RHB21-E1-C08 chromosome, complete genome
+Sequence ID: CP099186.1 Length: 4916157
+Range 1: 4159957 to 4160001
+
+Score:84.2 bits(45), Expect:7e-13, 
+Identities:45/45(100%),  Gaps:0/45(0%), Strand: Plus/Minus
+
+Query  1        AACGTTACCGTTATCGATCCGGTCGAAAAACTGCTGGCAGTGGGG  45
+                |||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  4160001  AACGTTACCGTTATCGATCCGGTCGAAAAACTGCTGGCAGTGGGG  4159957
+
+
+
+
+>Escherichia coli strain RHB20-E3-C04 chromosome, complete genome
+Sequence ID: CP099201.1 Length: 4877578
+Range 1: 2408401 to 2408445
+
+Score:84.2 bits(45), Expect:7e-13, 
+Identities:45/45(100%),  Gaps:0/45(0%), Strand: Plus/Minus
+
+Query  1        AACGTTACCGTTATCGATCCGGTCGAAAAACTGCTGGCAGTGGGG  45
+                |||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  2408445  AACGTTACCGTTATCGATCCGGTCGAAAAACTGCTGGCAGTGGGG  2408401
+
+
+
+
+>Escherichia coli strain RHB13-SO-C08 chromosome, complete genome
+Sequence ID: CP099220.1 Length: 4790290
+Range 1: 2278742 to 2278786
+
+Score:84.2 bits(45), Expect:7e-13, 
+Identities:45/45(100%),  Gaps:0/45(0%), Strand: Plus/Minus
+
+Query  1        AACGTTACCGTTATCGATCCGGTCGAAAAACTGCTGGCAGTGGGG  45
+                |||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  2278786  AACGTTACCGTTATCGATCCGGTCGAAAAACTGCTGGCAGTGGGG  2278742
+
+
+
+
+>Escherichia coli strain RHB13-SO-C03 chromosome, complete genome
+Sequence ID: CP099225.1 Length: 4859593
+Range 1: 2282510 to 2282554
+
+Score:84.2 bits(45), Expect:7e-13, 
+Identities:45/45(100%),  Gaps:0/45(0%), Strand: Plus/Plus
+
+Query  1        AACGTTACCGTTATCGATCCGGTCGAAAAACTGCTGGCAGTGGGG  45
+                |||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  2282510  AACGTTACCGTTATCGATCCGGTCGAAAAACTGCTGGCAGTGGGG  2282554
+
+
+
+
+>Escherichia coli strain RHB13-SO-C02 chromosome, complete genome
+Sequence ID: CP099231.1 Length: 4859595
+Range 1: 2282509 to 2282553
+
+Score:84.2 bits(45), Expect:7e-13, 
+Identities:45/45(100%),  Gaps:0/45(0%), Strand: Plus/Plus
+
+Query  1        AACGTTACCGTTATCGATCCGGTCGAAAAACTGCTGGCAGTGGGG  45
+                |||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  2282509  AACGTTACCGTTATCGATCCGGTCGAAAAACTGCTGGCAGTGGGG  2282553
+
+
+
+
+>Escherichia coli strain RHB13-SO-C01 chromosome, complete genome
+Sequence ID: CP099237.1 Length: 4860370
+Range 1: 2283287 to 2283331
+
+Score:84.2 bits(45), Expect:7e-13, 
+Identities:45/45(100%),  Gaps:0/45(0%), Strand: Plus/Plus
+
+Query  1        AACGTTACCGTTATCGATCCGGTCGAAAAACTGCTGGCAGTGGGG  45
+                |||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  2283287  AACGTTACCGTTATCGATCCGGTCGAAAAACTGCTGGCAGTGGGG  2283331
+
+
+
+
+>Escherichia coli strain RHB08-E3-C08 chromosome, complete genome
+Sequence ID: CP099266.1 Length: 4850689
+Range 1: 2296142 to 2296186
+
+Score:84.2 bits(45), Expect:7e-13, 
+Identities:45/45(100%),  Gaps:0/45(0%), Strand: Plus/Minus
+
+Query  1        AACGTTACCGTTATCGATCCGGTCGAAAAACTGCTGGCAGTGGGG  45
+                |||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  2296186  AACGTTACCGTTATCGATCCGGTCGAAAAACTGCTGGCAGTGGGG  2296142
+
+
+
+
+>Escherichia coli strain RHB07-SO-C03 chromosome, complete genome
+Sequence ID: CP099274.1 Length: 4797188
+Range 1: 4051156 to 4051200
+
+Score:84.2 bits(45), Expect:7e-13, 
+Identities:45/45(100%),  Gaps:0/45(0%), Strand: Plus/Minus
+
+Query  1        AACGTTACCGTTATCGATCCGGTCGAAAAACTGCTGGCAGTGGGG  45
+                |||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  4051200  AACGTTACCGTTATCGATCCGGTCGAAAAACTGCTGGCAGTGGGG  4051156
+
+
+
+
+>Escherichia coli strain RHB05-SO-C03 chromosome, complete genome
+Sequence ID: CP099280.1 Length: 4863621
+Range 1: 2355075 to 2355119
+
+Score:84.2 bits(45), Expect:7e-13, 
+Identities:45/45(100%),  Gaps:0/45(0%), Strand: Plus/Minus
+
+Query  1        AACGTTACCGTTATCGATCCGGTCGAAAAACTGCTGGCAGTGGGG  45
+                |||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  2355119  AACGTTACCGTTATCGATCCGGTCGAAAAACTGCTGGCAGTGGGG  2355075
+
+
+
+
+>Escherichia coli strain RHB03-SO-C06 chromosome, complete genome
+Sequence ID: CP099283.1 Length: 4765575
+Range 1: 2336805 to 2336849
+
+Score:84.2 bits(45), Expect:7e-13, 
+Identities:45/45(100%),  Gaps:0/45(0%), Strand: Plus/Minus
+
+Query  1        AACGTTACCGTTATCGATCCGGTCGAAAAACTGCTGGCAGTGGGG  45
+                |||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  2336849  AACGTTACCGTTATCGATCCGGTCGAAAAACTGCTGGCAGTGGGG  2336805
+
+
+
+
+>Escherichia coli strain RHB03-SO-C05 chromosome, complete genome
+Sequence ID: CP099285.1 Length: 4765577
+Range 1: 2336806 to 2336850
+
+Score:84.2 bits(45), Expect:7e-13, 
+Identities:45/45(100%),  Gaps:0/45(0%), Strand: Plus/Minus
+
+Query  1        AACGTTACCGTTATCGATCCGGTCGAAAAACTGCTGGCAGTGGGG  45
+                |||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  2336850  AACGTTACCGTTATCGATCCGGTCGAAAAACTGCTGGCAGTGGGG  2336806
+
+
+
+
+>Escherichia coli strain EC0026B genome assembly, chromosome: 1
+Sequence ID: OX460329.1 Length: 4741476
+Range 1: 3990968 to 3991012
+
+Score:84.2 bits(45), Expect:7e-13, 
+Identities:45/45(100%),  Gaps:0/45(0%), Strand: Plus/Minus
+
+Query  1        AACGTTACCGTTATCGATCCGGTCGAAAAACTGCTGGCAGTGGGG  45
+                |||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  3991012  AACGTTACCGTTATCGATCCGGTCGAAAAACTGCTGGCAGTGGGG  3990968
+
+
+
+
+>Escherichia coli strain EC0026B genome assembly, chromosome: 1
+Sequence ID: OX460326.1 Length: 4721705
+Range 1: 3971198 to 3971242
+
+Score:84.2 bits(45), Expect:7e-13, 
+Identities:45/45(100%),  Gaps:0/45(0%), Strand: Plus/Minus
+
+Query  1        AACGTTACCGTTATCGATCCGGTCGAAAAACTGCTGGCAGTGGGG  45
+                |||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  3971242  AACGTTACCGTTATCGATCCGGTCGAAAAACTGCTGGCAGTGGGG  3971198
+
+
+
+
+>Escherichia coli strain EC0026B genome assembly, chromosome: 1
+Sequence ID: OX460323.1 Length: 4722421
+Range 1: 3971913 to 3971957
+
+Score:84.2 bits(45), Expect:7e-13, 
+Identities:45/45(100%),  Gaps:0/45(0%), Strand: Plus/Minus
+
+Query  1        AACGTTACCGTTATCGATCCGGTCGAAAAACTGCTGGCAGTGGGG  45
+                |||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  3971957  AACGTTACCGTTATCGATCCGGTCGAAAAACTGCTGGCAGTGGGG  3971913
+
+
+
+
+>Escherichia coli strain EC0880B genome assembly, chromosome: 1
+Sequence ID: OX460322.1 Length: 4817712
+Range 1: 3994009 to 3994053
+
+Score:84.2 bits(45), Expect:7e-13, 
+Identities:45/45(100%),  Gaps:0/45(0%), Strand: Plus/Minus
+
+Query  1        AACGTTACCGTTATCGATCCGGTCGAAAAACTGCTGGCAGTGGGG  45
+                |||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  3994053  AACGTTACCGTTATCGATCCGGTCGAAAAACTGCTGGCAGTGGGG  3994009
+
+
+
+
+>Escherichia coli strain EC0026B genome assembly, chromosome: 1
+Sequence ID: OX460316.1 Length: 4725107
+Range 1: 3974599 to 3974643
+
+Score:84.2 bits(45), Expect:7e-13, 
+Identities:45/45(100%),  Gaps:0/45(0%), Strand: Plus/Minus
+
+Query  1        AACGTTACCGTTATCGATCCGGTCGAAAAACTGCTGGCAGTGGGG  45
+                |||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  3974643  AACGTTACCGTTATCGATCCGGTCGAAAAACTGCTGGCAGTGGGG  3974599
+
+
+
+
+>Escherichia coli strain EC0880B genome assembly, chromosome: 1
+Sequence ID: OX460315.1 Length: 4800993
+Range 1: 3977290 to 3977334
+
+Score:84.2 bits(45), Expect:7e-13, 
+Identities:45/45(100%),  Gaps:0/45(0%), Strand: Plus/Minus
+
+Query  1        AACGTTACCGTTATCGATCCGGTCGAAAAACTGCTGGCAGTGGGG  45
+                |||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  3977334  AACGTTACCGTTATCGATCCGGTCGAAAAACTGCTGGCAGTGGGG  3977290
+
+
+
+
+>Escherichia coli strain EC0026B genome assembly, chromosome: 1
+Sequence ID: OX460336.1 Length: 4730372
+Range 1: 3979864 to 3979908
+
+Score:84.2 bits(45), Expect:7e-13, 
+Identities:45/45(100%),  Gaps:0/45(0%), Strand: Plus/Minus
+
+Query  1        AACGTTACCGTTATCGATCCGGTCGAAAAACTGCTGGCAGTGGGG  45
+                |||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  3979908  AACGTTACCGTTATCGATCCGGTCGAAAAACTGCTGGCAGTGGGG  3979864
+
+
+
+
+>Escherichia coli strain EC0880B genome assembly, chromosome: 1
+Sequence ID: OX460342.1 Length: 4837144
+Range 1: 4013441 to 4013485
+
+Score:84.2 bits(45), Expect:7e-13, 
+Identities:45/45(100%),  Gaps:0/45(0%), Strand: Plus/Minus
+
+Query  1        AACGTTACCGTTATCGATCCGGTCGAAAAACTGCTGGCAGTGGGG  45
+                |||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  4013485  AACGTTACCGTTATCGATCCGGTCGAAAAACTGCTGGCAGTGGGG  4013441
+
+
+
+
+>Escherichia coli strain EC0880B genome assembly, chromosome: 1
+Sequence ID: OX460335.1 Length: 4817091
+Range 1: 3993388 to 3993432
+
+Score:84.2 bits(45), Expect:7e-13, 
+Identities:45/45(100%),  Gaps:0/45(0%), Strand: Plus/Minus
+
+Query  1        AACGTTACCGTTATCGATCCGGTCGAAAAACTGCTGGCAGTGGGG  45
+                |||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  3993432  AACGTTACCGTTATCGATCCGGTCGAAAAACTGCTGGCAGTGGGG  3993388
+
+
+
+
+>Escherichia coli O155:H21 strain NWU_1 chromosome, complete genome
+Sequence ID: CP121294.1 Length: 4801879
+Range 1: 2429081 to 2429125
+
+Score:84.2 bits(45), Expect:7e-13, 
+Identities:45/45(100%),  Gaps:0/45(0%), Strand: Plus/Plus
+
+Query  1        AACGTTACCGTTATCGATCCGGTCGAAAAACTGCTGGCAGTGGGG  45
+                |||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  2429081  AACGTTACCGTTATCGATCCGGTCGAAAAACTGCTGGCAGTGGGG  2429125
+
+
+
+
+>Escherichia coli strain E50 chromosome, complete genome
+Sequence ID: CP121199.1 Length: 4926661
+Range 1: 4120912 to 4120956
+
+Score:84.2 bits(45), Expect:7e-13, 
+Identities:45/45(100%),  Gaps:0/45(0%), Strand: Plus/Minus
+
+Query  1        AACGTTACCGTTATCGATCCGGTCGAAAAACTGCTGGCAGTGGGG  45
+                |||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  4120956  AACGTTACCGTTATCGATCCGGTCGAAAAACTGCTGGCAGTGGGG  4120912
+
+
+
+
+>Shigella flexneri 2a strain Sflex 21-42 chromosome, complete genome
+Sequence ID: CP121223.1 Length: 4644259
+Range 1: 2389288 to 2389332
+
+Score:84.2 bits(45), Expect:7e-13, 
+Identities:45/45(100%),  Gaps:0/45(0%), Strand: Plus/Plus
+
+Query  1        AACGTTACCGTTATCGATCCGGTCGAAAAACTGCTGGCAGTGGGG  45
+                |||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  2389288  AACGTTACCGTTATCGATCCGGTCGAAAAACTGCTGGCAGTGGGG  2389332
+
+
+
+
+>Escherichia coli strain E67 chromosome, complete genome
+Sequence ID: CP121155.1 Length: 4926661
+Range 1: 4120912 to 4120956
+
+Score:84.2 bits(45), Expect:7e-13, 
+Identities:45/45(100%),  Gaps:0/45(0%), Strand: Plus/Minus
+
+Query  1        AACGTTACCGTTATCGATCCGGTCGAAAAACTGCTGGCAGTGGGG  45
+                |||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  4120956  AACGTTACCGTTATCGATCCGGTCGAAAAACTGCTGGCAGTGGGG  4120912
+
+
+
+
+>Escherichia coli strain E47 chromosome, complete genome
+Sequence ID: CP121151.1 Length: 5255987
+Range 1: 4486276 to 4486320
+
+Score:84.2 bits(45), Expect:7e-13, 
+Identities:45/45(100%),  Gaps:0/45(0%), Strand: Plus/Minus
+
+Query  1        AACGTTACCGTTATCGATCCGGTCGAAAAACTGCTGGCAGTGGGG  45
+                |||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  4486320  AACGTTACCGTTATCGATCCGGTCGAAAAACTGCTGGCAGTGGGG  4486276
+
+
+
+
+>Escherichia coli strain E89 chromosome, complete genome
+Sequence ID: CP121157.1 Length: 4776546
+Range 1: 3976515 to 3976559
+
+Score:84.2 bits(45), Expect:7e-13, 
+Identities:45/45(100%),  Gaps:0/45(0%), Strand: Plus/Minus
+
+Query  1        AACGTTACCGTTATCGATCCGGTCGAAAAACTGCTGGCAGTGGGG  45
+                |||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  3976559  AACGTTACCGTTATCGATCCGGTCGAAAAACTGCTGGCAGTGGGG  3976515
+
+
+
+
+>Escherichia coli strain E57 chromosome, complete genome
+Sequence ID: CP121153.1 Length: 4946171
+Range 1: 4140414 to 4140458
+
+Score:84.2 bits(45), Expect:7e-13, 
+Identities:45/45(100%),  Gaps:0/45(0%), Strand: Plus/Minus
+
+Query  1        AACGTTACCGTTATCGATCCGGTCGAAAAACTGCTGGCAGTGGGG  45
+                |||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  4140458  AACGTTACCGTTATCGATCCGGTCGAAAAACTGCTGGCAGTGGGG  4140414
+
+
+
+
+>Escherichia coli strain E14 chromosome, complete genome
+Sequence ID: CP121149.1 Length: 4988967
+Range 1: 4158467 to 4158511
+
+Score:84.2 bits(45), Expect:7e-13, 
+Identities:45/45(100%),  Gaps:0/45(0%), Strand: Plus/Minus
+
+Query  1        AACGTTACCGTTATCGATCCGGTCGAAAAACTGCTGGCAGTGGGG  45
+                |||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  4158511  AACGTTACCGTTATCGATCCGGTCGAAAAACTGCTGGCAGTGGGG  4158467
+
+
+
+
+>Escherichia coli strain E20 chromosome, complete genome
+Sequence ID: CP121147.1 Length: 4926646
+Range 1: 4120895 to 4120939
+
+Score:84.2 bits(45), Expect:7e-13, 
+Identities:45/45(100%),  Gaps:0/45(0%), Strand: Plus/Minus
+
+Query  1        AACGTTACCGTTATCGATCCGGTCGAAAAACTGCTGGCAGTGGGG  45
+                |||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  4120939  AACGTTACCGTTATCGATCCGGTCGAAAAACTGCTGGCAGTGGGG  4120895
+
+
+
+
+>Escherichia coli strain ST3 chromosome, complete genome
+Sequence ID: CP121087.1 Length: 4969640
+Range 1: 2347471 to 2347515
+
+Score:84.2 bits(45), Expect:7e-13, 
+Identities:45/45(100%),  Gaps:0/45(0%), Strand: Plus/Minus
+
+Query  1        AACGTTACCGTTATCGATCCGGTCGAAAAACTGCTGGCAGTGGGG  45
+                |||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  2347515  AACGTTACCGTTATCGATCCGGTCGAAAAACTGCTGGCAGTGGGG  2347471
+
+
+
+
+>Escherichia coli strain BY63 chromosome, complete genome
+Sequence ID: CP090570.1 Length: 4770033
+Range 1: 3985213 to 3985257
+
+Score:84.2 bits(45), Expect:7e-13, 
+Identities:45/45(100%),  Gaps:0/45(0%), Strand: Plus/Minus
+
+Query  1        AACGTTACCGTTATCGATCCGGTCGAAAAACTGCTGGCAGTGGGG  45
+                |||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  3985257  AACGTTACCGTTATCGATCCGGTCGAAAAACTGCTGGCAGTGGGG  3985213
+
+
+
+
+>Escherichia coli strain BY68 chromosome, complete genome
+Sequence ID: CP090212.1 Length: 4770033
+Range 1: 3985213 to 3985257
+
+Score:84.2 bits(45), Expect:7e-13, 
+Identities:45/45(100%),  Gaps:0/45(0%), Strand: Plus/Minus
+
+Query  1        AACGTTACCGTTATCGATCCGGTCGAAAAACTGCTGGCAGTGGGG  45
+                |||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  3985257  AACGTTACCGTTATCGATCCGGTCGAAAAACTGCTGGCAGTGGGG  3985213
+
+
+
+
+>Escherichia coli strain NB4833 chromosome, complete genome
+Sequence ID: CP118601.1 Length: 4898971
+Range 1: 4138715 to 4138759
+
+Score:84.2 bits(45), Expect:7e-13, 
+Identities:45/45(100%),  Gaps:0/45(0%), Strand: Plus/Minus
+
+Query  1        AACGTTACCGTTATCGATCCGGTCGAAAAACTGCTGGCAGTGGGG  45
+                |||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  4138759  AACGTTACCGTTATCGATCCGGTCGAAAAACTGCTGGCAGTGGGG  4138715
+
+
+
+
+>Escherichia coli strain APEC E956 chromosome, complete genome
+Sequence ID: CP087294.1 Length: 4884398
+Range 1: 610278 to 610322
+
+Score:84.2 bits(45), Expect:7e-13, 
+Identities:45/45(100%),  Gaps:0/45(0%), Strand: Plus/Plus
+
+Query  1       AACGTTACCGTTATCGATCCGGTCGAAAAACTGCTGGCAGTGGGG  45
+               |||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  610278  AACGTTACCGTTATCGATCCGGTCGAAAAACTGCTGGCAGTGGGG  610322
+
+
+
+
+>Escherichia coli strain APEC 102026 chromosome, complete genome
+Sequence ID: CP087290.1 Length: 5197709
+Range 1: 3170057 to 3170101
+
+Score:84.2 bits(45), Expect:7e-13, 
+Identities:45/45(100%),  Gaps:0/45(0%), Strand: Plus/Plus
+
+Query  1        AACGTTACCGTTATCGATCCGGTCGAAAAACTGCTGGCAGTGGGG  45
+                |||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  3170057  AACGTTACCGTTATCGATCCGGTCGAAAAACTGCTGGCAGTGGGG  3170101
+
+
+
+
+>Escherichia coli strain B-766 chromosome, complete genome
+Sequence ID: CP118014.1 Length: 5062632
+Range 1: 4803501 to 4803545
+
+Score:84.2 bits(45), Expect:7e-13, 
+Identities:45/45(100%),  Gaps:0/45(0%), Strand: Plus/Minus
+
+Query  1        AACGTTACCGTTATCGATCCGGTCGAAAAACTGCTGGCAGTGGGG  45
+                |||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  4803545  AACGTTACCGTTATCGATCCGGTCGAAAAACTGCTGGCAGTGGGG  4803501
+
+
+
+
+>Escherichia coli strain PBS4 chromosome, complete genome
+Sequence ID: CP117714.1 Length: 4879695
+Range 1: 4087385 to 4087429
+
+Score:84.2 bits(45), Expect:7e-13, 
+Identities:45/45(100%),  Gaps:0/45(0%), Strand: Plus/Minus
+
+Query  1        AACGTTACCGTTATCGATCCGGTCGAAAAACTGCTGGCAGTGGGG  45
+                |||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  4087429  AACGTTACCGTTATCGATCCGGTCGAAAAACTGCTGGCAGTGGGG  4087385
+
+
+
+
+>Escherichia coli strain KW21 chromosome, complete genome
+Sequence ID: CP117672.1 Length: 4849332
+Range 1: 4071192 to 4071236
+
+Score:84.2 bits(45), Expect:7e-13, 
+Identities:45/45(100%),  Gaps:0/45(0%), Strand: Plus/Minus
+
+Query  1        AACGTTACCGTTATCGATCCGGTCGAAAAACTGCTGGCAGTGGGG  45
+                |||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  4071236  AACGTTACCGTTATCGATCCGGTCGAAAAACTGCTGGCAGTGGGG  4071192
+
+
+
+
+>Escherichia coli strain eco-241 chromosome, complete genome
+Sequence ID: CP053662.1 Length: 5255408
+Range 1: 4381445 to 4381489
+
+Score:84.2 bits(45), Expect:7e-13, 
+Identities:45/45(100%),  Gaps:0/45(0%), Strand: Plus/Minus
+
+Query  1        AACGTTACCGTTATCGATCCGGTCGAAAAACTGCTGGCAGTGGGG  45
+                |||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  4381489  AACGTTACCGTTATCGATCCGGTCGAAAAACTGCTGGCAGTGGGG  4381445
+
+
+
+
+>Escherichia coli strain MLI107 chromosome, complete genome
+Sequence ID: CP116987.1 Length: 4793329
+Range 1: 4032955 to 4032999
+
+Score:84.2 bits(45), Expect:7e-13, 
+Identities:45/45(100%),  Gaps:0/45(0%), Strand: Plus/Minus
+
+Query  1        AACGTTACCGTTATCGATCCGGTCGAAAAACTGCTGGCAGTGGGG  45
+                |||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  4032999  AACGTTACCGTTATCGATCCGGTCGAAAAACTGCTGGCAGTGGGG  4032955
+
+
+
+
+>Escherichia coli strain MLI104K1 chromosome, complete genome
+Sequence ID: CP116923.1 Length: 4689650
+Range 1: 3979317 to 3979361
+
+Score:84.2 bits(45), Expect:7e-13, 
+Identities:45/45(100%),  Gaps:0/45(0%), Strand: Plus/Minus
+
+Query  1        AACGTTACCGTTATCGATCCGGTCGAAAAACTGCTGGCAGTGGGG  45
+                |||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  3979361  AACGTTACCGTTATCGATCCGGTCGAAAAACTGCTGGCAGTGGGG  3979317
+
+
+
+
+>Escherichia coli strain MLI104K2 chromosome, complete genome
+Sequence ID: CP116925.1 Length: 4930547
+Range 1: 4083804 to 4083848
+
+Score:84.2 bits(45), Expect:7e-13, 
+Identities:45/45(100%),  Gaps:0/45(0%), Strand: Plus/Minus
+
+Query  1        AACGTTACCGTTATCGATCCGGTCGAAAAACTGCTGGCAGTGGGG  45
+                |||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  4083848  AACGTTACCGTTATCGATCCGGTCGAAAAACTGCTGGCAGTGGGG  4083804
+
+
+
+
+>Escherichia coli strain MLI105 chromosome, complete genome
+Sequence ID: CP116929.1 Length: 4603416
+Range 1: 3805220 to 3805264
+
+Score:84.2 bits(45), Expect:7e-13, 
+Identities:45/45(100%),  Gaps:0/45(0%), Strand: Plus/Minus
+
+Query  1        AACGTTACCGTTATCGATCCGGTCGAAAAACTGCTGGCAGTGGGG  45
+                |||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  3805264  AACGTTACCGTTATCGATCCGGTCGAAAAACTGCTGGCAGTGGGG  3805220
+
+
+
+
+>Escherichia coli strain MLI106K2 chromosome, complete genome
+Sequence ID: CP117049.1 Length: 4981147
+Range 1: 4155621 to 4155665
+
+Score:84.2 bits(45), Expect:7e-13, 
+Identities:45/45(100%),  Gaps:0/45(0%), Strand: Plus/Minus
+
+Query  1        AACGTTACCGTTATCGATCCGGTCGAAAAACTGCTGGCAGTGGGG  45
+                |||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  4155665  AACGTTACCGTTATCGATCCGGTCGAAAAACTGCTGGCAGTGGGG  4155621
+
+
+
+
+>Escherichia coli strain MLI106K4 chromosome, complete genome
+Sequence ID: CP117053.1 Length: 4981147
+Range 1: 4155621 to 4155665
+
+Score:84.2 bits(45), Expect:7e-13, 
+Identities:45/45(100%),  Gaps:0/45(0%), Strand: Plus/Minus
+
+Query  1        AACGTTACCGTTATCGATCCGGTCGAAAAACTGCTGGCAGTGGGG  45
+                |||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  4155665  AACGTTACCGTTATCGATCCGGTCGAAAAACTGCTGGCAGTGGGG  4155621
+
+
+
+
+>Escherichia coli strain MLI108K1 chromosome, complete genome
+Sequence ID: CP116994.1 Length: 4733000
+Range 1: 3813284 to 3813328
+
+Score:84.2 bits(45), Expect:7e-13, 
+Identities:45/45(100%),  Gaps:0/45(0%), Strand: Plus/Plus
+
+Query  1        AACGTTACCGTTATCGATCCGGTCGAAAAACTGCTGGCAGTGGGG  45
+                |||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  3813284  AACGTTACCGTTATCGATCCGGTCGAAAAACTGCTGGCAGTGGGG  3813328
+
+
+
+
+>Escherichia coli strain MLI108K2 chromosome, complete genome
+Sequence ID: CP117001.1 Length: 4733636
+Range 1: 3813920 to 3813964
+
+Score:84.2 bits(45), Expect:7e-13, 
+Identities:45/45(100%),  Gaps:0/45(0%), Strand: Plus/Plus
+
+Query  1        AACGTTACCGTTATCGATCCGGTCGAAAAACTGCTGGCAGTGGGG  45
+                |||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  3813920  AACGTTACCGTTATCGATCCGGTCGAAAAACTGCTGGCAGTGGGG  3813964
+
+
+
+
+>Escherichia coli strain MLI114 chromosome, complete genome
+Sequence ID: CP117013.1 Length: 5270094
+Range 1: 4423666 to 4423710
+
+Score:84.2 bits(45), Expect:7e-13, 
+Identities:45/45(100%),  Gaps:0/45(0%), Strand: Plus/Minus
+
+Query  1        AACGTTACCGTTATCGATCCGGTCGAAAAACTGCTGGCAGTGGGG  45
+                |||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  4423710  AACGTTACCGTTATCGATCCGGTCGAAAAACTGCTGGCAGTGGGG  4423666
+
+
+
+
+>Escherichia coli strain MLI121 chromosome, complete genome
+Sequence ID: CP117016.1 Length: 5255484
+Range 1: 3783859 to 3783903
+
+Score:84.2 bits(45), Expect:7e-13, 
+Identities:45/45(100%),  Gaps:0/45(0%), Strand: Plus/Plus
+
+Query  1        AACGTTACCGTTATCGATCCGGTCGAAAAACTGCTGGCAGTGGGG  45
+                |||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  3783859  AACGTTACCGTTATCGATCCGGTCGAAAAACTGCTGGCAGTGGGG  3783903
+
+
+
+
+>Escherichia coli strain CUVM53 chromosome, complete genome
+Sequence ID: CP116976.1 Length: 4681953
+Range 1: 2333359 to 2333403
+
+Score:84.2 bits(45), Expect:7e-13, 
+Identities:45/45(100%),  Gaps:0/45(0%), Strand: Plus/Minus
+
+Query  1        AACGTTACCGTTATCGATCCGGTCGAAAAACTGCTGGCAGTGGGG  45
+                |||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  2333403  AACGTTACCGTTATCGATCCGGTCGAAAAACTGCTGGCAGTGGGG  2333359
+
+
+
+
+		
+
+
